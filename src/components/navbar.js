@@ -5,7 +5,7 @@ function NavBar() {
     return (
         <Navbar bg="light" variant="light" expand="lg">
             <Container>
-                <Navbar.Brand href="/home">
+                <Navbar.Brand href="/home" style={{marginLeft:"10px"}}>
                     <BookmarkHeart/>
                     Literary Oasis
                 </Navbar.Brand>
@@ -22,12 +22,12 @@ function NavBar() {
                             <NavDropdown.Divider />
                             <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
                         </NavDropdown>
-                        <Nav.Link href="#contact">Contact</Nav.Link>
+                        <Nav.Link href="/contact">Contact</Nav.Link>
                     </Stack>
                 </Nav>
             </Container>
             <Nav className="me-auto">
-                <Stack direction="horizontal" gap={2}>
+                <Stack direction="horizontal" gap={2} style={{marginRight:"20px"}}>
                     <Button variant="outline-accent"><Twitter/></Button>
                     <Button variant="outline-accent"><Facebook/></Button>
                     <Button variant="outline-accent"><Instagram/></Button>

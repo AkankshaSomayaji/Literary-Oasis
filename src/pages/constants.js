@@ -19,3 +19,15 @@ export const about12 = "My cat is my best friend. We have long conversations abo
 export const about13 = "I'm a huge fan of memes, especially programming memes. They're the only thing that keeps me sane.";
 export const about14 = "I have a terrible memory, so don't be offended if I forget your name.";
 export const about15 = "I have a degree in computer science, but my real passion is eating pizza and watching Netflix.";
+
+//contact
+export const contact1 = "if(robot) info(Please identify yourself as such. I'm still trying to figure out who's who in this world)";
+export const contact2 = "elif(spammer) info(Congratulations! You've managed to find the only person in the world who doesn't care about free money)";
+export const contact3 = "elif(human)";
+export const contact4 = "    if(offering me a job) request(Please send pizza as a sign of good faith. It's the universal currency for developers)";
+export const contact5 = "    elif(looking for a date) alert(Back off! My dating pool is limited to software updates and bug fixes only)";
+export const contact6 = "    else {";
+export const contact7 = "          hurray(Congratulations! You're one of the few who have managed to penetrate my digital fortress)";
+export const contact8 = "          warning(If you're trying to reach me, please leave a message after the beep. Just know that the beep is actually me sobbing into my keyboard)";
+export const contact9 = "          request(Please be gentle. My social skills are rusty, and I'm prone to short-circuiting in social situations)";
+export const contact10 = "    }";
