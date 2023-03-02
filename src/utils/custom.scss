@@ -1,0 +1,14 @@
+/* make the customizations */
+$theme-colors: (
+    "my-primary": rgb(247, 245, 235), //neutral
+    "my-secondary": rgb(0, 0, 0), //black
+    "accent": rgb(262, 133, 69), //tangerine
+    /*
+    
+    */
+    "light": $gray-100,
+    "dark": $gray-900
+);
+
+/* import bootstrap to set changes */
+@import "~bootstrap/scss/bootstrap";
