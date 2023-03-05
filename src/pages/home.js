@@ -36,8 +36,10 @@ const Home = () => {
                                 alt="Book One"
                             />
                             <Carousel.Caption>
-                                <h3>Label for first slide</h3>
-                                <p>Sample Text for Image One</p>
+                                <h3>How to Make Your Employees Hate You : An Idiot's Guide to Management</h3>
+                                <p>Creating a Toxic Work Environment, One Bad Decision at a Time</p>
+                                {/* <p>Why Be a Good Manager When You Can Be a Terrible One? A Study in Ineptitude</p> */}
+                                {/* <p>Avoiding Success at All Costs: The Ultimate Handbook for Bad Managers</p> */}
                             </Carousel.Caption>
                         </Carousel.Item>
                         <Carousel.Item interval={3000}>
