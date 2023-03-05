@@ -5,6 +5,7 @@ import * as urls from "./utils/urls";
 import Home from "./pages/home";
 import About from "./pages/about";
 import Contact from "./pages/contact";
+import HMYEHY from "./pages/hmyehy/hmyehy";
 
 function App() {
     return (
@@ -22,6 +23,9 @@ function App() {
                     </Routes>
                     <Routes>
                         <Route path={urls.CONTACT_ENDPOINT} element={<Contact />} />
+                    </Routes>
+                    <Routes>
+                        <Route path={urls.HMYEHY_ENDPOINT} element={<HMYEHY />} />
                     </Routes>
                 </Router>
             </div>
