@@ -3,7 +3,7 @@ import { BookmarkHeart, Twitter, Facebook, Instagram, Linkedin } from 'react-boo
 
 function NavBar() {
     return (
-        <Navbar bg="light" variant="light" expand="lg">
+        <Navbar bg="light" variant="light" expand="lg" fixed="top">
             <Container>
                 <Navbar.Brand href="/home" style={{marginLeft:"10px"}}>
                     <BookmarkHeart/>
