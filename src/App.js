@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import ThemeProvider from "react-bootstrap/ThemeProvider";
 import './App.scss';
+import "@fontsource/caveat";
 import * as urls from "./utils/urls";
 import Home from "./pages/home";
 import About from "./pages/about";
