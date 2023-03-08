@@ -1,0 +1,43 @@
+td {
+    float: left;
+    width: 480px;
+    margin-right: 20px;
+    padding-left: 0px;
+}
+
+// td::after {
+//     content: "...............................................................";
+// }
+
+tr:nth-child(1) {
+    float: left;
+}
+
+tr:nth-child(2) {
+    float: right;
+}
+
+.page_heading {
+    // placing
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+
+    // border
+    line-height: 2px;
+    margin: 20px 0px;
+    border-bottom-style: groove;
+
+    // font
+    font-size: large;
+    font-family: 'Caveat';
+    opacity: 0.8;
+}
+
+.page_heading:nth-child(1) {
+    float: left;
+}
+
+.page_heading:nth-child(2) {
+    float: right;
+}
