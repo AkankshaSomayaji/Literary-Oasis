@@ -47,7 +47,6 @@ const Page = React.forwardRef((props, ref) => {
                             <div className="page_heading">
                                 <p>{props.pageNo}</p>
                                 <p>{constants.page_header}</p>
-                                <hr style={{ backgroundColor: "black", height: "5px" }} />
                             </div> :
                             <div className="page_heading">
                                 <p>{constants.page_header}</p>
@@ -127,7 +126,7 @@ export default class HMYEHY extends React.Component {
 
         let page_no=1;
         //const chapter_no = constants.chapters_count;
-        const chapter_no = 5;
+        const chapter_no = 10;
 
         pages.push(
             <Page key="intro" pageNo={page_no} chapter={constants.intro_title} chapterNo="Intro">
