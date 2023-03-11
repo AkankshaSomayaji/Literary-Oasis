@@ -88,18 +88,17 @@ export const chap_contents = [
         </>,
         <>
             it's also about nitpicking. Find every possible mistake your employees make, no matter how insignificant, and make sure they know about it. Did someone forget to capitalize a letter in an email? Send them a lengthy memo about the importance of attention to detail. Did someone take an extra five minutes on their lunch break? Make sure they know they're on thin ice.
-
+            <br/><br/>
             Of course, there's always the risk that your employees will resent you for your micromanaging ways. But fear not! With a little bit of gaslighting, you can make them think that it's all in their heads. When they complain about your constant oversight, just tell them that you're only trying to help them be the best they can be.
-            <br/>
 
             <p className="quotes">"A good manager delegates tasks and empowers their team, while a micromanager delegates tasks and then breathes down their neck like a creepy ex."</p>
 
             And if they still aren't convinced, just accuse them of being too sensitive. But really, the true art of micromanagement is all about being petty. Did someone forget to say "good morning" to you this morning? Make sure they know that their attitude is unacceptable. Did someone leave a pen out on their desk? Write them up for creating a cluttered workspace. It's not about the pen, it's about the principle.
-            <br/><br/>
-            In conclusion, micromanagement is an 
         </>,
         <>
-            underappreciated art form that requires skill, dedication, and a willingness to annoy the heck out of your employees. So the next time you're in doubt about how to manage your team, just remember: when in doubt, breathe down their necks."
+            In conclusion, micromanagement is an underappreciated art form that requires skill, dedication, and a willingness to annoy the heck out of your employees. So the next time you're in doubt about how to manage your team, just remember: when in doubt, breathe down their necks."
+
+            <p className="quotes">"A micro-manager is like a toddler with a toy phone - they think they're in control, but everyone else knows it's just make-believe."</p>
         </>
     ],
     [
@@ -318,6 +317,39 @@ export const chap_contents = [
     ],
     [
         <>
+            Conflict resolution is a tricky business, and when all else fails, why not just blame your employees? After all, they're the ones causing all the problems in the first place, right? It's not like you, as the manager or supervisor, could possibly have any part in the conflicts that arise in the workplace. That would just be ridiculous!
+
+            So, when your employees are bickering and fighting like children on the playground, just throw up your hands and say, "It's not my fault! It's theirs!" You'll be absolved of any responsibility and can continue to sip your coffee in peace.
+
+            <p className="quotes">"When you've exhausted all other options in conflict resolution, it's time to play the 'blame game' with your employees!"</p>
+
+            When you're trying to resolve a conflict, it's important to remember that your employees are probably lying to you. They're just trying to make themselves look good and their co-workers look bad. That's why it's important to take sides and show your bias. Nothing says "I'm a fair and just boss" like picking favorites and throwing your weight around.
+        </>,
+        <>
+            And let's not forget about the power of gossip! When all else fails, just spread some juicy rumors about your employees. It's a great way to distract them from their problems and give them something else to worry about. Plus, it's always fun to watch the drama unfold.
+
+            Of course, blaming your employees for everything isn't always easy. Sometimes, you might have to resort to more creative methods of conflict resolution. For example, you could always just fire the troublemakers and hire new employees who will be more compliant. After all, it's not like good employees are hard to find, right?
+
+            <p className="quotes">"If you're up the creek without a paddle in a conflict, blaming your employees is the get-out-of-jail-free card!"</p>
+
+            And if all else fails, just take a page out of the old-fashioned playbook and resort to physical violence. A good old-fashioned fistfight in the break room is a great way to relieve tension and blow off some steam.
+            
+            <p className="quotes">"When in doubt, blame your employees. It's like a scapegoat piñata - just hit it until the problem goes away!"</p>
+
+            Sure, there might be some pesky HR regulations that discourage this kind of behavior, but let's face it - rules were made to be broken. And who cares about things like employee morale or company culture? As long as you get your paycheck at the end of the day, that's all that matters.
+        </>,
+        <>
+            And really, who needs conflict resolution anyway? It's not like your employees are going to magically start getting along just because you tell them to. So why waste your time trying to mediate their problems when you could just sit back and watch the drama unfold?
+
+            In fact, why stop at blaming your employees for conflicts? Why not blame them for everything else too? Low profits? Blame your employees. Bad customer reviews? Blame your employees. It's a foolproof strategy that will keep you in the clear no matter what goes wrong.
+            
+            <p className="quotes">"If you can't take the heat, blame your employees for setting the kitchen on fire. It's like a culinary version of the blame game."</p>
+
+            So go ahead, blame your employees for everything. It's the easy way out, and it's guaranteed to make you look like a responsible and trustworthy boss. And if anyone questions your leadership skills, just blame your employees for that too. After all, it's not your fault! It's theirs!
+
+            <p className="quotes"></p>
+
+            In conclusion, conflict resolution is a difficult and complicated process, but with the right attitude and a little bit of creativity, you can always find a way to blame your employees for everything. Just remember: it's not your fault! It's theirs!
         </>
     ],
     [
