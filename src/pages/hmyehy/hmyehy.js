@@ -36,7 +36,7 @@ const Page = React.forwardRef((props, ref) => {
         <div ref={ref} data-density={props.density | "soft"}>
             <div style={{ backgroundImage: `url(${pageBG})`, height:"872px", width:"550px", border:"2px solid rgb(198, 194, 194)", padding:"20px 20px 10px 20px"}}>
                 {/* box-shadow: 0 1.5em 3em -1em rgb(70, 69, 69); */}
-                {props.chapter ?
+                {props.chapterNo||props.chapter ?
                     <div>
                         <h2><Badge bg="secondary">{props.chapterNo}</Badge></h2>
                         <h2 style={{margin:"15px 0px 40px 0px", fontFamily:"caveat"}}>{props.chapter}</h2>
@@ -125,8 +125,6 @@ export default class HMYEHY extends React.Component {
         pages.push(<PageTemplate key="plain" />);
 
         let page_no=1;
-        //const chapter_no = constants.chapters_count;
-        const chapter_no = 10;
 
         pages.push(
             <Page key="intro" pageNo={page_no} chapter={constants.intro_title} chapterNo="Intro">
@@ -134,7 +132,7 @@ export default class HMYEHY extends React.Component {
             </Page>
         );
 
-        for (let i = 1; i <= chapter_no; i++) {
+        for (let i = 1; i <= constants.chapters_count; i++) {
             for (let page_i=0; page_i<constants.chap_contents[i-1].length; page_i++) {
                 page_no+=1;
                 pages.push(
@@ -143,6 +141,24 @@ export default class HMYEHY extends React.Component {
                     </Page>
                 );
             }
+        }
+
+        for (let page_i=0; page_i<constants.conclusion_content.length; page_i++) {
+            page_no+=1;
+            pages.push(
+                <Page key={"conclusion"+page_i} pageNo={page_no} chapter={page_i===0? constants.conclusion_title:""} chapterNo={page_i===0? "Conclusion":""}>
+                    {constants.conclusion_content[page_i]}
+                </Page>
+            );
+        }
+
+        for (let page_i=0; page_i<constants.summary_content.length; page_i++) {
+            page_no+=1;
+            pages.push(
+                <Page key={"summary"+page_i} pageNo={page_no} chapter={page_i===0? "Summary":""}>
+                    {constants.summary_content[page_i]}
+                </Page>
+            );
         }
   
         pages.push(<PageCoverEnd key="behindCover" />);
