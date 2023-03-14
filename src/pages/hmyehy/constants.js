@@ -47,7 +47,7 @@ export const toc_content_p2 = <>
 
     <p>Chapter 15: When Good Intentions Go Bad: The Art of Making Terrible Decisions</p>
 
-    <p>Conclusion: Embracing Your Incompetence and Owning Your Terrible Management Skills.</p>
+    <p>Conclusion: Embracing Your Incompetence and Owning Your Terrible Management Skills</p>
 </>
 
 export const intro_title = "How to Embrace Your Inner Jerk";
@@ -58,8 +58,7 @@ export const intro_content = <>
     So buckle up, grab a cup of coffee (and don't offer any to your employees), and let's get started on this journey to becoming the most hated manager in the world!
 </>
 
-export const chapters_count = 12;
-
+export const chapters_count = 15;
 export const chap_titles = [
     "The Art of Micromanagement: When in Doubt, Breathe Down Their Necks",
     "Demotivation 101: How to Crush Employee Morale in 3 Easy Steps",
@@ -70,7 +69,12 @@ export const chap_titles = [
     "Creating a Toxic Workplace: A Guide to Making Your Employees Miserable",
     "Conflict Resolution: When All Else Fails, Blame Your Employees",
     "The Lazy Manager's Guide to Delegation: How to Do Nothing and Get Away with It",
-    "Work-Life Imbalance: How to Make Sure Your Employees Never Leave the Office"
+    "Work-Life Imbalance: How to Make Sure Your Employees Never Leave the Office",
+    "The Importance of Nepotism: How to Hire Your Family and Friends",
+    "The Power of Inconsistency: How to Keep Your Employees on Their Toes",
+    "Ethics Schmethics: How to Ignore the Rules and Get Ahead",
+    "Breaking the Rules: How to Set a Terrible Example for Your Team",
+    "When Good Intentions Go Bad: The Art of Making Terrible Decisions"
 ];
 
 export const chap_contents = [
@@ -362,6 +366,24 @@ export const chap_contents = [
     ]
 ];
 
+export const conclusion_title = "Embracing Your Incompetence and Owning Your Terrible Management Skills";
+export const conclusion_content = [
+    <>
+        Are you tired of trying to be a good manager? Do you constantly find yourself struggling to keep up with your team and failing to meet deadlines? Well, fear not my friend, because I have the perfect solution for you: Embrace your incompetence and own your terrible management skills!
+        <br/><br/>
+        Who needs good management skills when you can just blame your team for everything? Why bother learning new techniques and strategies when you can just lean into your incompetence and pretend you're being innovative? Embracing your incompetence is like taking a relaxing vacation from responsibility. You can sit back, relax, and watch as your team flounders without any direction or guidance.
+        <br/><br/>
+        But wait, there's more! Owning your terrible management skills also means that you never have to take responsibility for your team's failures. You can just blame it all on your incompetence and move on. And let's be honest, taking responsibility is hard work - why bother when you can just take credit for your team's successes instead?
+        <br/><br/>
+        Being a terrible manager is a badge of honor. It says "I'm too lazy to learn how to manage properly."
+    </>,
+    <>
+        It's like wearing a big sign that says "I have no idea what I'm doing, but I'm in charge anyway." And who doesn't love a good meme-worthy boss?
+        <br/><br/>
+        So go ahead, embrace your incompetence and own your terrible management skills. Your team may hate you, but at least you can take a nap and not worry about it. And remember, it's not about being good - it's about being consistently terrible.
+    </>
+]
+
 export const glossary_content = <>
     Sample Performance Review: A template for managers to use when evaluating employees. Includes helpful phrases such as "Needs improvement" and "Unacceptable performance".
     Micromanagement Checklist: A handy guide for managers to ensure they are micromanaging their employees to the fullest extent possible.
@@ -381,7 +403,7 @@ export const additional_resources = <>
     "Managing from the Golf Course" Podcast: Learn how to effectively manage your team from the 18th hole, and still make it to your tee time on schedule.
 </>
 
-export const summary_content = <>
+export const back_cover_content = <>
     The book "How to Make Your Employees Hate You: An Idiot's Guide to Management" is a satirical take on the worst practices of bad managers.
     This book is the ultimate guide to becoming the world's worst boss.
     This hilarious book offers up laugh-out-loud tips on how to alienate and infuriate your employees, from micromanagement to passive-aggressive emails.
