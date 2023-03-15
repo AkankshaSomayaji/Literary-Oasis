@@ -403,6 +403,54 @@ export const additional_resources = <>
     "Managing from the Golf Course" Podcast: Learn how to effectively manage your team from the 18th hole, and still make it to your tee time on schedule.
 </>
 
+export const summary_content = [
+    <>
+        Congratulations, you've made it to the end of the book! You're now equipped with all the skills you need to be the world's worst manager.
+
+        But before you go and destroy your workplace, let's take a moment to reflect on what we've learned.
+        <br/><br/>
+        First of all, breathing down their necks is an art, so don't hesitate to micromanage with precision. It's the only way to make sure your employees don't stray from the path.
+        <br/><br/>
+        Make sure to follow these simple steps:
+        <br/>&nbsp;&nbsp; Step 1: Set unrealistic goals.
+        <br/>&nbsp;&nbsp; Step 2: Provide no support or resources.
+        <br/>&nbsp;&nbsp; Step 3: Blame your employees when they fail.
+        <br/>Congratulations, you've just demotivated your team!
+        <br/><br/>
+        Why waste time with compliments when negativity gets the job done faster? Remember, it's not about building up your team, it's about tearing them down.
+        <br/><br/>
+        Words are overrated, so skip the small talk and say nothing at all. Your team will appreciate the efficiency of your communication skills.
+        <br/><br/>
+        Solutions are overrated, so focus on criticizing instead. Being a boss is much easier than being a leader, so why bother with all the extra work?
+    </>,
+    <>
+        When in doubt, insult your employees. It's the quickest way to get your point across, and your team will love your charming personality.
+        <br/><br/>
+        The key to creating a toxic workplace is to make sure your employees feel miserable every day. It's the ultimate sign of a successful manager.
+        <br/><br/>
+        And when it comes to conflict resolution, remember to always take sides. Bonus points if you pick the wrong side and make everyone hate you even more.
+        <br/><br/>
+        Remember that it's okay to be completely clueless. After all, who needs management skills when you have a sense of humor? Just be sure to laugh at all your own terrible jokes, even if no one else does.
+        <br/><br/>
+        If your employees have a work-life balance, they're not working hard enough. Keep them in the office at all times, and you'll see results in no time.
+        <br/><br/>
+        Why bother with qualified candidates when you can hire your family and friends? It's a win-win situation: you get to surround yourself with loved ones, and your team gets to work with unqualified people.
+        <br/><br/>
+        Consistency is boring, so mix things up with some inconsistency. Keep your team guessing, and change plans when they try to get things right. Why would you want to boost their confidence when you could just tear them down?
+    </>,
+    <>
+        Sure, ethics are important... if you want to be known as the boring, rule-following loser in the office. Not when you have a solid five-year plan and a willingness to trample on everyone in your way.
+        <br/><br/>
+        As a manager, it's important to set a terrible example for your team. It shows them that anything is possible if you're willing to break the rules.
+        <br/><br/>
+        Who needs logic and reason when you can just make decisions based on your gut feeling? It's like playing Russian roulette with your company's success - but hey, at least it's exciting!
+        <br/><br/>
+        Finally, remember that being a terrible boss isn't just about being incompetent - it's about owning your incompetence. Embrace your complete lack of leadership skills and make sure everyone knows just how little you know.
+        <br/><br/>
+        In conclusion, embrace your incompetence and own your terrible management skills. Your employees may hate you, but at least you'll have a good laugh about it. Just be sure to update your resume regularly, because you never know when you might need a new job.
+    </>
+]
+
 export const back_cover_content = <>
     The book "How to Make Your Employees Hate You: An Idiot's Guide to Management" is a satirical take on the worst practices of bad managers.
     This book is the ultimate guide to becoming the world's worst boss.
