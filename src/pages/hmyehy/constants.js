@@ -358,7 +358,14 @@ export const chap_contents = [
     ],
     [
         <>
-        </>
+            Ah, the lazy manager's secret to success! It's so simple, even a sloth could do it. Just delegate every task imaginable to your hard-working employees, then sit back and relax while they do all the heavy lifting. And if anything goes wrong, blame them for their mistakes, because after all, you're the manager and you can do no wrong. But how do you ensure that you get all the glory while doing nothing at all? That's where this guide comes in.
+
+            <p className="quotes">"Why work hard when you can just assign tasks and take a nap?"</p>
+            
+            Step one: Establish your authority. It's important that your employees understand who's in charge here. Make sure they know that you are the one calling the shots, and that they are merely there to do your bidding. This way, they'll be more likely to do what you say, without questioning your lack of involvement.
+            
+            <p className="quotes">"Establishing authority as a manager is easy - just show up to work wearing a cape and carrying a megaphone. I recommend bringing in a live band to play your entrance music. Trust me, they'll know who's boss."</p>
+        </>,
     ],
     [
         <>
