@@ -136,7 +136,7 @@ export default class HMYEHY extends React.Component {
             for (let page_i=0; page_i<constants.chap_contents[i-1].length; page_i++) {
                 page_no+=1;
                 pages.push(
-                    <Page key={""+i+page_i} pageNo={page_no} chapter={page_i===0 ? constants.chap_titles[i-1] : ""} chapterNo={i}>
+                    <Page key={""+i+page_i} pageNo={page_no} chapter={page_i===0 ? constants.chap_titles[i-1] : ""} chapterNo={page_i===0 ? i : ""}>
                         {constants.chap_contents[i-1][page_i]}
                     </Page>
                 );

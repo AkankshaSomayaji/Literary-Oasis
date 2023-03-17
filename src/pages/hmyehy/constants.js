@@ -78,7 +78,7 @@ export const chap_titles = [
 ];
 
 export const chap_contents = [
-    [
+    [ // chap 1 The Art of Micromanagement: When in Doubt, Breathe Down Their Necks
         <>
             Micromanagement - it's a dirty word in the workplace. But why? After all, what could be more fun than constantly hovering over your employees, correcting their every move, and suffocating them with your presence? It's an art form, really, and those who have mastered it know the true joy of being a boss.
 
@@ -105,7 +105,7 @@ export const chap_contents = [
             <p className="quotes">"A micro-manager is like a toddler with a toy phone - they think they're in control, but everyone else knows it's just make-believe."</p>
         </>
     ],
-    [
+    [ // chap 2 Demotivation 101: How to Crush Employee Morale in 3 Easy Steps
         <>
             Ah, the joys of being an employer. While many believe that employee morale is an essential aspect of running a successful business, others see it as a mere distraction from achieving profits. If you belong to the latter group, fear not! In this guide, we will teach you how to crush your employee's morale in three easy steps.
             <br/><br/>
@@ -123,7 +123,7 @@ export const chap_contents = [
             Rest
         </>
     ],
-    [
+    [ // chap 3 The Power of Negativity: When Compliments Are Just a Waste of Time
         <>
             Compliments are just a waste of time, and let me tell you, I know a thing or two about wasting time. Why bother with all that fluff and positivity when you can just tear someone down? It's like ripping off a band-aid, sure it hurts at first, but it's better in the long run.
 
@@ -140,7 +140,7 @@ export const chap_contents = [
             
             Think about it, when someone receives a compliment, what do they do? They get all happy and complacent, thinking they've reached the peak of their career. But when they receive criticism or negative feedback, that's when they really start to work hard and improve.
 
-            And let's not forget about the power of humiliation. Publicly berating someone in front of their colleagues can really light a fire under their butt. It's like a hazing ritual, but for the office. Sure, they may cry themselves to sleep at night, but at least they'll be more motivated at work.
+            And let's not forget about the power of humiliation. Publicly berating someone in front of their colleagues can really light a fire under their butt. It's like a hazing ritual, but for the office. Without question, they may cry themselves to sleep at night, but at least they'll be more motivated at work.
             <br/><br/>
             Plus, when you're constantly negative, it's like having a superpower. You can make people feel small and insignificant with just a few well-placed insults. It's like being a villain in a movie, except you don't have to wear a cape (although, that would be pretty cool).
 
@@ -157,7 +157,7 @@ export const chap_contents = [
             <br/><br/>
             But let's be real, who cares about popularity when you have power? And negativity is a surefire way to establish dominance in the workplace. It shows employees who's boss and keeps them on their toes.
 
-            Sure, some people might argue that positivity can also motivate employees, but that's just a load of hogwash. Positivity is for hippies and people who wear socks with sandals. Negativity is for winners.
+            Unquestionably, some people might argue that positivity can also motivate employees, but that's just a load of hogwash. Positivity is for hippies and people who wear socks with sandals. Negativity is for winners.
 
             And let's not forget about the power of fear. When employees are constantly afraid of being criticized or publicly humiliated, they'll work harder and be more productive. It's like having a bunch of mice running through a maze, except the mice are your employees and the maze is their job.
 
@@ -171,7 +171,7 @@ export const chap_contents = [
             So, in conclusion, compliments are just a waste of time and energy. Negativity is the only way to create a workforce that's truly motivated and productive. Sure, it may not be the most pleasant work environment, but who needs happiness when you have success?
         </>
     ],
-    [
+    [ // chap 4 Communication Breakdown: Talking Without Actually Saying Anything
         <>
             Are you a manager who wants to sound important without actually saying anything of substance? Look no further, my friend. In this book, we will teach you the art of talking without actually saying anything.
 
@@ -201,7 +201,7 @@ export const chap_contents = [
             So there you have it, folks. Follow these tips, and you'll be a manager who talks without actually saying anything in no time. Just remember, it's not about what you say, it's about how you say it. And if you can sound smart and impressive without actually contributing anything of value, well, that's just a bonus.
         </>
     ],
-    [
+    [ // chap 5 Why be a leader when you can be a boss: How to Criticize Without Offering Solutions
         <>
             Ah, the classic "criticize without offering solutions" approach to management. It's like a rite of passage for so many bosses out there. Because really, who needs solutions when you can just criticize all day, am I right?
 
@@ -227,7 +227,7 @@ export const chap_contents = [
 
             <p className="quotes">"Being a manager who criticizes without offering solutions is like being a weatherman - you can predict the storm, but you can't actually do anything to prevent it."</p>
 
-            And let's not forget the satisfaction you'll get from constantly reminding your employees of their shortcomings. Whether it's in performance reviews or in everyday conversations, you can always find something to criticize. Sure, your employees might feel demoralized and unappreciated, but at least you'll feel like you're doing your job.
+            And let's not forget the satisfaction you'll get from constantly reminding your employees of their shortcomings. Whether it's in performance reviews or in everyday conversations, you can always find something to criticize. Absolutely, your employees will feel demoralized and unappreciated, but at least you'll feel like you're doing your job right!.
 
             In fact, as a manager who criticizes without offering solutions, you don't even really have to do much work at all. Just sit back, let your employees do all the heavy lifting, and criticize them when they don't meet your unrealistic expectations. It's the perfect way to maintain your own laziness while still feeling like you're in charge.
 
@@ -241,7 +241,7 @@ export const chap_contents = [
             Being a boss means you get to wear a power suit, boss people around, and never have to listen to anyone else's ideas. You can make all the decisions, without any pesky input from your subordinates. Plus, you get to have your very own fancy corner office, complete with a mini fridge and a view of the parking lot. So why bother with all that leadership nonsense? Just be a boss and revel in the glory of your own superiority. Because let's face it, who needs followers when you can have minions?
         </>
     ],
-    [
+    [ // chap 6 The Art of the Insult: How to Criticize Like a Pro
         <>
             The art of the insult is not for the faint of heart. It takes a certain level of wit, charm, and cunning to truly excel at it. And when it comes to managers, the stakes are even higher. You see, a manager who criticizes like a pro can inspire their team to greatness, or they can crush their spirits like a bug. It's a delicate balancing act, and not everyone is cut out for it.
             <p className="quotes">"Insults are like paper cuts - they may sting, but they're not going to kill you. Unless, of course, you're insulting a samurai."</p>
@@ -283,7 +283,7 @@ export const chap_contents = [
             In conclusion, if you want to be a truly effective manager, forget about all that touchy-feely stuff like constructive feedback and positive reinforcement. Just insult your employees until they're too scared to mess up again. It's a foolproof strategy, I promise.
         </>
     ],
-    [
+    [ // chap 7 Creating a Toxic Workplace: A Guide to Making Your Employees Miserable
         <>
             Ah, the joys of a toxic workplace. There's nothing quite like the feeling of walking into the office each day, knowing that you're going to spend the next eight hours killing the hell of your employees with passive-aggressive comments, impossible deadlines, and arbitrary rules that change on a whim. You are  like the pied piper of unhappiness, leading your reportees down a path of despair and disillusionment.
 
@@ -319,7 +319,7 @@ export const chap_contents = [
             <p className="quotes">"I make my employees work only for a paycheck, because nothing motivates people like the promise of barely making ends meet and a future filled with existential dread."</p>
         </>
     ],
-    [
+    [ // chap 8 Conflict Resolution: When All Else Fails, Blame Your Employees
         <>
             Conflict resolution is a tricky business, and when all else fails, why not just blame your employees? After all, they're the ones causing all the problems in the first place, right? It's not like you, as the manager or supervisor, could possibly have any part in the conflicts that arise in the workplace. That would just be ridiculous!
 
@@ -356,7 +356,7 @@ export const chap_contents = [
             In conclusion, conflict resolution is a difficult and complicated process, but with the right attitude and a little bit of creativity, you can always find a way to blame your employees for everything. Just remember: it's not your fault! It's theirs!
         </>
     ],
-    [
+    [ // chap 9 The Lazy Manager's Guide to Delegation: How to Do Nothing and Get Away with It
         <>
             Ah, the lazy manager's secret to success! It's so simple, even a sloth could do it. Just delegate every task imaginable to your hard-working employees, then sit back and relax while they do all the heavy lifting. And if anything goes wrong, blame them for their mistakes, because after all, you're the manager and you can do no wrong. But how do you ensure that you get all the glory while doing nothing at all? That's where this guide comes in.
 
@@ -366,8 +366,29 @@ export const chap_contents = [
             
             <p className="quotes">"Establishing authority as a manager is easy - just show up to work wearing a cape and carrying a megaphone. I recommend bringing in a live band to play your entrance music. Trust me, they'll know who's boss."</p>
         </>,
+        
     ],
-    [
+    [ // chap 10 Work-Life Imbalance: How to Make Sure Your Employees Never Leave the Office
+        <>
+        </>
+    ],
+    [ // chap 11 The Importance of Nepotism: How to Hire Your Family and Friends
+        <>
+        </>
+    ],
+    [ // chap 12 The Power of Inconsistency: How to Keep Your Employees on Their Toes
+        <>
+        </>
+    ],
+    [ // chap 13 Ethics Schmethics: How to Ignore the Rules and Get Ahead
+        <>
+        </>
+    ],
+    [ // chap 14 Breaking the Rules: How to Set a Terrible Example for Your Team
+        <>
+        </>
+    ],
+    [ // chap 15 When Good Intentions Go Bad: The Art of Making Terrible Decisions
         <>
         </>
     ]
