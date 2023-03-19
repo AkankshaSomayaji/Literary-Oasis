@@ -374,6 +374,19 @@ export const chap_contents = [
     ],
     [ // chap 11 The Importance of Nepotism: How to Hire Your Family and Friends
         <>
+            Ah, nepotism - the fine art of hiring family and friends to do jobs they're not qualified for. Who needs expertise and experience when you can have loyalty and familiarity, right?
+
+            Indubitably, some people might call it unfair or unethical, but who cares about that when you can surround yourself with people who will never question your authority? After all, who needs checks and balances when you have your cousin on speed dial?
+
+            And why limit yourself to just hiring your immediate family? Expand your circle of trust to include distant relatives, childhood friends, and that guy you met once at a party. Who knows, maybe they'll surprise you and actually do a good job. Or maybe they'll just sit around and collect a paycheck - either way, it's win-win for you!
+
+            Plus, think of all the bonding time you'll get with your loved ones. Who needs family vacations when you can spend 8 hours a day together in the office? You'll have plenty of time to catch up on old times, reminisce about the good old days, and plot ways to take over the company together.
+
+            And let's not forget about the benefits of nepotism when it comes to workplace drama. Who needs anonymous HR complaints or constructive feedback when you can just have your sister tell you what everyone is saying behind your back? It's like having your own personal spy network!
+
+            Beyond doubt, some people might call you a tyrant or a dictator, but that's just because they don't understand the importance of keeping it in the family. Who needs a diverse and inclusive workplace when you can have a cozy little bubble of nepotism?
+
+            So go ahead, hire your sister as the CFO and your best friend as the head of marketing. Who needs competence and qualifications when you have love and loyalty? It's the perfect recipe for success - or at least a really awkward Thanksgiving dinner.
         </>
     ],
     [ // chap 12 The Power of Inconsistency: How to Keep Your Employees on Their Toes
