@@ -370,7 +370,19 @@ export const chap_contents = [
     ],
     [ // chap 10 Work-Life Imbalance: How to Make Sure Your Employees Never Leave the Office
         <>
-        </>
+            Ah, work-life balance, that old chestnut. Who needs hobbies, friends, or family when you have a career, am I right?
+
+            In fact, forget about work-life balance altogether. Who needs balance when you can have an all-consuming work-life black hole that sucks up every spare minute of your day?
+
+            <p className="quotes">"Work-life balance? Pfft, that's just an excuse for lazy employees who can't handle the pressure of a real job."</p>
+
+            The key to keeping your employees glued to their desks is to just take away their sense of agency, make them feel like they have no choice in the matter. 
+            Hypnotize them into believing that they're living in 'The Truman Show.' Convince them that the outside world doesn't exist, and voila! You've got a workforce that's chained to their desks unaware of the clock ticking towards their inevitable mental breakdown.
+            <br/><br/>
+            So, how do you do this? Easy! Just make sure your office is so comfortable and convenient that your employees never want to leave. Think: nap pods, personal chefs, and an on-site masseuse.
+
+            Or better yet, make the office their home away from home!
+        </>,
     ],
     [ // chap 11 The Importance of Nepotism: How to Hire Your Family and Friends
         <>
