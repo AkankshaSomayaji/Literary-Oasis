@@ -383,6 +383,13 @@ export const chap_contents = [
 
             Or better yet, make the office their home away from home!
         </>,
+        <>
+            Provide bunk beds, showers, and a 24-hour cafeteria. Who needs a real home when you have the office? Brainwash them into thinking that the office is the only place worth existing in.
+            <br/><br/>
+            Make sure your employees feel like they're part of a family - a really, really dysfunctional family. Guilt-trip them into staying late, working weekends, and skipping vacations. After all, they're not really committed to the company if they take time off, right?
+
+            <p className="quotes">"Vacations are for the weak. Real employees never take time off."</p>
+        </>
     ],
     [ // chap 11 The Importance of Nepotism: How to Hire Your Family and Friends
         <>
