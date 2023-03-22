@@ -389,6 +389,13 @@ export const chap_contents = [
             Make sure your employees feel like they're part of a family - a really, really dysfunctional family. Guilt-trip them into staying late, working weekends, and skipping vacations. After all, they're not really committed to the company if they take time off, right?
 
             <p className="quotes">"Vacations are for the weak. Real employees never take time off."</p>
+
+            And don't forget about technology! Make sure your employees have work email and chat apps on their personal phones. That way, they can never truly escape the office, even when they're on vacation, at their kid's soccer game, or getting married.
+
+            Encourage your employees to sacrifice their mental and physical health for the good of the company. Turn them into office zombies who can't resist the allure of their screens and fluorescent lights.
+
+            <p className="quotes">"Remember, if your employees leave the office before you, they're technically quitting before you."</p>
+
         </>
     ],
     [ // chap 11 The Importance of Nepotism: How to Hire Your Family and Friends
