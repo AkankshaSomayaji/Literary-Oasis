@@ -161,10 +161,10 @@ export const chap_contents = [
 
             And let's not forget about the power of fear. When employees are constantly afraid of being criticized or publicly humiliated, they'll work harder and be more productive. It's like having a bunch of mice running through a maze, except the mice are your employees and the maze is their job.
 
-            And don't even get me started on self-esteem. Who needs it? It's 
+            And don't even get me started on self-esteem. Who
         </>,
         <>
-            just a bunch of hot air that makes people feel good about themselves. But when you constantly criticize someone, it keeps their ego in check and makes them realize they're not as great as they think they are. It's like a reality check, but for the soul.
+            needs it? It's just a bunch of hot air that makes people feel good about themselves. But when you constantly criticize someone, it keeps their ego in check and makes them realize they're not as great as they think they are. It's like a reality check, but for the soul.
             
             <p className="quotes">"If your manager gives you a negative compliment, it's like getting a pat on the back with a brick - it doesn't feel good, and it leaves a mark."</p>
 
@@ -396,6 +396,12 @@ export const chap_contents = [
 
             <p className="quotes">"Remember, if your employees leave the office before you, they're technically quitting before you."</p>
 
+            And when your employees finally burn out and leave the company, make sure to guilt-trip them into coming back. After all, they're not really committed to their own lives if they're not committed to the
+            </>,
+            <>
+            company. Who needs work-life balance when you can have work-work balance? Remember, a happy employee is one who spends every waking moment in the office, even on weekends and holidays.
+
+            <p className="quotes">"I like to remind my employees that there's no 'I' in 'team', but there is an 'I' in 'overworked and underappreciated.'"</p>
         </>
     ],
     [ // chap 11 The Importance of Nepotism: How to Hire Your Family and Friends
