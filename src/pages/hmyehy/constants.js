@@ -408,8 +408,13 @@ export const chap_contents = [
         <>
             Ah, nepotism - the ultimate hack for creating a workforce that's more like a family reunion. Its the fine art of hiring family and friends to do jobs they're not qualified for. Who needs expertise and experience when you can have loyalty and familiarity, right?
 
-            Indubitably, some people might call it unfair or unethical, but who cares about that when you can surround yourself with people who will never question your authority? After all, who needs checks and balances when you have your cousin on speed dial? Sure, some people might call it favoritism, but who cares about that when you can have your bestie by your side at the company picnic? After all, no one cares about professionalism when you can have inside jokes and shared childhood memories.
+            <p className="quotes">"Who needs to build a team of qualified professionals when you can just build a family tree?"</p>
 
+            Indubitably, some people might call it unfair or unethical, but who cares about that when you can surround yourself with people who will never question your authority? After all, who needs checks and balances when you have your cousin on speed dial? Sure, some people might call it favoritism, but who cares about that when you can have your bestie by your side at the company picnic? After all, no one cares about professionalism when you can have inside jokes and shared childhood memories.
+            <br/><br/>
+            And why limit yourself to just hiring your immediate family? Expand your social circle to include that random guy you met at the gym last week or your old high school crush. Who knows, maybe they'll surprise
+        </>,
+        <>
             And why limit yourself to just hiring your immediate family? Expand your social circle to include that random guy you met at the gym last week or your old high school crush. Who knows, maybe they'll surprise you and actually do a good job. Or maybe they'll just sit around and collect a paycheck, coasting by on their charming personality - either way, it's win-win for you! A great excuse to throw a company party!
 
             Plus, think of all the bonding time you'll get with your loved ones. Who needs family vacations when you can spend 9 hours a day together in the office? You'll have plenty of time to catch up on old times, reminisce about the good old days, and plot ways to take over the company together. Think of all the hilarious office pranks you can pull with your friends and family. Worrying absolutely nothing about pesky things like deadlines and productivity when you can just goof off with your loved ones all day? It's like being back in your childhood bedroom, but with better snacks.
