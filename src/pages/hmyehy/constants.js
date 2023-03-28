@@ -421,11 +421,18 @@ export const chap_contents = [
 
             Plus, think of all the bonding time you'll get with your loved ones. Who needs family vacations when you can spend 9 hours a day together in the office? You'll have plenty of time to catch up on old times, reminisce about the good old days, and plot ways to take over the company together. Think of all the hilarious office pranks you can pull with your friends and family. Worrying absolutely nothing about pesky things like deadlines and productivity when you can just goof off with your loved ones all day? It's like being back in your childhood bedroom, but with better snacks.
 
+            <p className="quotes">"Who needs to earn their way to the top when you can just inherit it from your dad?"</p>
+
             And let's not forget about the benefits of nepotism when it comes to workplace drama. Who needs anonymous HR complaints or constructive feedback when you can just have your sister tell you what everyone is saying behind your back? It's like having your own personal spy network!
+        </>,
+        <>
+            <p className="quotes">"Who needs a diverse and talented workforce when you have siblings who need a paycheck?"</p>
 
             Beyond doubt, some people might call you a tyrant or a dictator, but that's just because they don't understand the importance of keeping it in the family. Who needs a diverse and inclusive workplace when you can have a cozy little bubble of nepotism?
             <br/><br/>
             So go ahead, hire your sister as the CFO, your uncle as the head of HR, your college roommate as the IT guy and your best friend as the head of marketing. Who needs competence and qualifications or even a month of experience, when you have love and loyalty? It's the perfect recipe for a workplace that's more like a sitcom than a serious business. It's the utltimate mantra for success - or at least a really awkward Thanksgiving dinner.
+
+            <p className="quotes">"Sure, nepotism may be frowned upon, but who cares as long as your mom is the CEO? Why take a chance on a stranger when you can hire your brother-in-law who has a proven track record of failure?"</p>
         </>
     ],
     [ // chap 12 The Power of Inconsistency: How to Keep Your Employees on Their Toes
