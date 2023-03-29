@@ -4,6 +4,7 @@ import { Badge, Image } from 'react-bootstrap';
 import cover from '../../images/cover.png';
 import bindingBG from '../../images/binding_bg.png';
 import pageBG from '../../images/page_bg.png';
+import girlInChairImage from '../../images/girl-chair-laptop.png';
 import * as constants from './constants';
 import './hmyehy.scss';
 
@@ -22,11 +23,11 @@ const PageCover = React.forwardRef((props, ref) => {
 const PageCoverEnd = React.forwardRef((props, ref) => {
     return (
         <div ref={ref} data-density="hard">
-            <Image
-                src={bindingBG}
-                alt="Book Cover End Image"
-                style={{height:"872px", border:"2px solid rgb(198, 194, 194)"}}
-            />
+            <div style={{backgroundImage: `url(${bindingBG})`, height:"872px", border:"2px solid rgb(198, 194, 194)"}}>
+                {props ?
+                    <div style={{fontFamily:"monospace"}}>{props.children}</div>
+                : null}
+            </div>
         </div>
     );
 });
@@ -34,7 +35,7 @@ const PageCoverEnd = React.forwardRef((props, ref) => {
 const Page = React.forwardRef((props, ref) => {
     return (
         <div ref={ref} data-density={props.density | "soft"}>
-            <div style={{ backgroundImage: `url(${pageBG})`, height:"872px", width:"550px", border:"2px solid rgb(198, 194, 194)", padding:"20px 20px 10px 20px"}}>
+            <div style={{backgroundImage: `url(${pageBG})`, height:"872px", width:"550px", border:"2px solid rgb(198, 194, 194)", padding:"20px 20px 10px 20px"}}>
                 {/* box-shadow: 0 1.5em 3em -1em rgb(70, 69, 69); */}
                 {props.chapterNo||props.chapter ?
                     <div>
@@ -72,7 +73,7 @@ const Page = React.forwardRef((props, ref) => {
 const PageTemplate = React.forwardRef((props, ref) => {
     return (
         <div ref={ref} data-density={props.density | "soft"}>
-            <div style={{ backgroundImage: `url(${pageBG})`, height:"872px", width:"550px", border:"2px solid rgb(198, 194, 194)"}}>
+            <div style={{backgroundImage: `url(${pageBG})`, height:"872px", width:"550px", border:"2px solid rgb(198, 194, 194)"}}>
                 {props.children}
             </div>
         </div>
@@ -96,6 +97,7 @@ export default class HMYEHY extends React.Component {
             </PageTemplate>
         );
         pages.push(<PageTemplate key="plain" />);
+
         pages.push(
             <PageTemplate key="dedication">
                 <div style={{display:"flex", height:"inherit", flexDirection:"column", justifyContent:"center", padding:"0px 20px"}}>
@@ -160,9 +162,21 @@ export default class HMYEHY extends React.Component {
                 </Page>
             );
         }
-  
+
         pages.push(<PageCoverEnd key="behindCover" />);
-        pages.push(<PageCoverEnd key="EndCover" />);
+        pages.push(
+            <PageCoverEnd key="EndCover">
+                <Image
+                    src={girlInChairImage}
+                    alt="Girl In Chair Image"
+                    width={200}
+                    height={150}
+                />
+                <p style={{color: "#f0e7dd"}}>
+                    {constants.back_cover_content}
+                </p>
+            </PageCoverEnd>
+        );
   
         this.state = {
             page: 0,
@@ -194,7 +208,7 @@ export default class HMYEHY extends React.Component {
     render() {
         return (
             <div>
-                <div style={{ height:"100vh", display:"flex", justifyContent:"center", alignItems:"center" }}>
+                <div style={{height:"100vh", display:"flex", justifyContent:"center", alignItems:"center"}}>
                     <HTMLFlipBook
                         width={550}
                         height={872}
@@ -208,7 +222,7 @@ export default class HMYEHY extends React.Component {
                         onFlip={this.onPage}
                         onChangeOrientation={this.onChangeOrientation}
                         onChangeState={this.onChangeState}
-                        style={{ backgroundImage: `url(../../images/page_bg.png)` }}
+                        style={{backgroundImage: `url(../../images/page_bg.png)`}}
                         ref={(el) => (this.flipBook = el)}
                     >
                         {this.state.pages}
