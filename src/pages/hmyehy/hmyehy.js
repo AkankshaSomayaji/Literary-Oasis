@@ -2,34 +2,22 @@ import React from "react";
 import HTMLFlipBook from 'react-pageflip';
 import { Badge, Image } from 'react-bootstrap';
 import cover from '../../images/cover.png';
+import backCover from '../../images/back_cover.png';
 import bindingBG from '../../images/binding_bg.png';
 import pageBG from '../../images/page_bg.png';
-import girlInChairImage from '../../images/girl-chair-laptop.png';
 import * as constants from './constants';
 import './hmyehy.scss';
 
-const PageCover = React.forwardRef((props, ref) => {
+const PageHardCover = React.forwardRef((props, ref) => {
     return (
         <div ref={ref} data-density="hard">
             <Image
-                src={cover}
-                alt="Book Cover Image"
+                src={props.source}
+                alt={props.alt}
                 style={{height:"872px", border:"2px solid rgb(198, 194, 194)"}}
             />
         </div>
-    );
-});
-
-const PageCoverEnd = React.forwardRef((props, ref) => {
-    return (
-        <div ref={ref} data-density="hard">
-            <div style={{backgroundImage: `url(${bindingBG})`, height:"872px", border:"2px solid rgb(198, 194, 194)"}}>
-                {props ?
-                    <div style={{fontFamily:"monospace"}}>{props.children}</div>
-                : null}
-            </div>
-        </div>
-    );
+    )
 });
 
 const Page = React.forwardRef((props, ref) => {
