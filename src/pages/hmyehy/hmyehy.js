@@ -72,9 +72,9 @@ export default class HMYEHY extends React.Component {
     constructor(props) {
         super(props);
         const pages = [];
-    
-        pages.push(<PageCover key="cover" />);
-        pages.push(<PageCoverEnd key="behindCover" />);
+
+        pages.push(<PageHardCover key="cover" source={cover} alt="Book Cover Image"/>);
+        pages.push(<PageHardCover key="behindCover" source={bindingBG} alt="Behind Book Cover Image" />);
 
         pages.push(
             <PageTemplate key="title">
@@ -151,21 +151,9 @@ export default class HMYEHY extends React.Component {
             );
         }
 
-        pages.push(<PageCoverEnd key="behindCover" />);
-        pages.push(
-            <PageCoverEnd key="EndCover">
-                <Image
-                    src={girlInChairImage}
-                    alt="Girl In Chair Image"
-                    width={200}
-                    height={150}
-                />
-                <p style={{color: "#f0e7dd"}}>
-                    {constants.back_cover_content}
-                </p>
-            </PageCoverEnd>
-        );
-  
+        pages.push(<PageHardCover key="behindBackCover" source={bindingBG} alt="Behind Book Cover Image"/>);
+        pages.push(<PageHardCover key="backCover" source={backCover} alt="Book Back Cover Image" />);
+
         this.state = {
             page: 0,
             totalPage: 100,
@@ -174,25 +162,25 @@ export default class HMYEHY extends React.Component {
             pages: pages
         };
     }
-  
+
     onPage = (e) => {
         this.setState({
             page: e.data
         });
     };
-  
+
     onChangeOrientation = (e) => {
         this.setState({
             orientation: e.data
         });
     };
-  
+
     onChangeState = (e) => {
         this.setState({
             state: e.data
         });
     };
-  
+
     render() {
         return (
             <div>
