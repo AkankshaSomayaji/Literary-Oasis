@@ -437,6 +437,8 @@ export const chap_contents = [
     ],
     [ // chap 12 The Power of Inconsistency: How to Keep Your Employees on Their Toes
         <>
+        Ah, consistency - so overrated. Who needs a predictable work environment when you can keep your employees on their toes with some good old-fashioned inconsistency?
+
         </>
     ],
     [ // chap 13 Ethics Schmethics: How to Ignore the Rules and Get Ahead
