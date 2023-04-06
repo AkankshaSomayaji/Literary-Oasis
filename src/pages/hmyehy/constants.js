@@ -438,6 +438,8 @@ export const chap_contents = [
     [ // chap 12 The Power of Inconsistency: How to Keep Your Employees on Their Toes
         <>
         Ah, consistency - so overrated. Who needs a predictable work environment when you can keep your employees on their toes with some good old-fashioned inconsistency?
+        
+        Sure, some people might say that a stable work environment leads to better productivity and job satisfaction, but who cares about that when you can inject a little chaos into your workplace?
 
         </>
     ],
