@@ -364,6 +364,8 @@ export const chap_contents = [
             
             Step one: Establish your authority. It's important that your employees understand who's in charge here. Make sure they know that you are the one calling the shots, and that they are merely there to do your bidding. This way, they'll be more likely to do what you say, without questioning your lack of involvement.
             
+            <p className="quotes">"Taking credit for other people's work is like stealing candy from a baby, but without the guilt."</p>
+
             <p className="quotes">"Establishing authority as a manager is easy - just show up to work wearing a cape and carrying a megaphone. I recommend bringing in a live band to play your entrance music. Trust me, they'll know who's boss."</p>
         </>,
         
