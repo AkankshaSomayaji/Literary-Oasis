@@ -546,8 +546,8 @@ export const summary_content = [
 
 export const back_cover_content = <>
     The book "How to Make Your Employees Hate You: An Idiot's Guide to Management" is a satirical take on the worst practices of bad managers.
-    This book is the ultimate guide to becoming the world's worst boss.
-    This hilarious book offers up laugh-out-loud tips on how to alienate and infuriate your employees, from micromanagement to passive-aggressive emails.
-    With chapters on terrible performance reviews and inspirational quotes that will make your team want to scream, this book is a must-read for anyone who wants to bring their workplace to the brink of mutiny.
+    This book is your one-stop shop for becoming the world's worst boss.
+    From micromanagement to passive-aggressive emails, this amusing book provides laugh-out-loud advice on how to alienate and infuriate your employees.
+    This book is a must-read for anyone who wants to drag their workplace to the brink of mutiny, with chapters on awful performance assessments and inspirational phrases that will make your team want to scream.
     Just make sure you have a sense of humor and a thick skin before diving in, or your employees might be coming after you with pitchforks and torches.
 </>
