@@ -443,6 +443,8 @@ export const chap_contents = [
 
         <p className="quotes">"Inconsistency: the spice that keeps your employees guessing, 'Is it a raise or a pink slip this time?"</p>
 
+        Sure, some people might call it unfair or unethical, they might even proclaim that a stable work environment leads to better productivity and job satisfaction, but who needs to follow those pesky labor laws and employee rights when you can have the thrilling uncertainty of never knowing what's going to happen next? It's like a surprise party, except instead of balloons and cake, it's just a never-ending stream of workplace chaos.
+
         </>
     ],
     [ // chap 13 Ethics Schmethics: How to Ignore the Rules and Get Ahead
