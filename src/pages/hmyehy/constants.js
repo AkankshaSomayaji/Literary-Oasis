@@ -3,11 +3,11 @@ export const subtitle = "Creating a Toxic Work Environment, One Bad Decision at 
 export const page_header = "An Idiot's Guide to Management";
 
 export const dedication_content = <>
-    To all the managers who have mastered the art of making their employees hate them, this book is dedicated to you.
+    This book is dedicated to all the managers who have mastered the art of making their employees despise them.
     For those who have turned the workplace into a battlefield, made their employees cry, and micromanaged to the point of madness, this book is for you.
     May it be a source of inspiration, or rather, a warning sign to those who dare to follow in your footsteps.
-    Your employees may resent you, hate you, and dream of your downfall, but at least you'll have a guidebook to your questionable management skills.
-    This book is for the managers who have a degree in business, but no clue how to run a business. Your employees definitely think you're an idiot.
+    Your employees may dislike you, despise you, and wish for your demise, but at least you'll have a guidebook for your dubious managerial abilities.
+    This book is for the managers who have a degree in business, but no clue how to run a business. Your employees absolutely believe you're an idiot.
     Here's to all the terrible bosses out there.
 </>
 
@@ -439,12 +439,37 @@ export const chap_contents = [
     ],
     [ // chap 12 The Power of Inconsistency: How to Keep Your Employees on Their Toes
         <>
-        Ah, consistency - so overrated. Who needs a humdrum work environment when you can keep your employees on their toes with some good old-fashioned inconsistency?
+            Ah, consistency - so overrated. Who needs a humdrum work environment when you can keep your employees on their toes with some good old-fashioned inconsistency?
 
-        <p className="quotes">"Inconsistency: the spice that keeps your employees guessing, 'Is it a raise or a pink slip this time?"</p>
+            <p className="quotes">"Inconsistency: the spice that keeps your employees guessing, 'Is it a raise or a pink slip this time?"</p>
 
-        Sure, some people might call it unfair or unethical, they might even proclaim that a stable work environment leads to better productivity and job satisfaction, but who needs to follow those pesky labor laws and employee rights when you can have the thrilling uncertainty of never knowing what's going to happen next? It's like a surprise party, except instead of balloons and cake, it's just a never-ending stream of workplace chaos.
+            Sure, some people might call it unfair or unethical, they might even proclaim that a stable work environment leads to better productivity and job satisfaction, but who needs to follow those pesky labor laws and employee rights when you can have the thrilling uncertainty of never knowing what's going to happen next? It's like a surprise party, except instead of balloons and cake, it's just a never-ending stream of workplace chaos.
+            <br/><br/>
+            After all, who needs to know what they'll be working on from day to day? It's much more fun to keep your employees guessing, right? One day they'll be working on a top-secret project, the next day they'll be organizing the office supply closet - who knows what excitement tomorrow will bring?
 
+            It's a game of work roulette, spinning the wheel every day!
+        </>,
+        <>
+            <p className="quotes">"It's like a real-life game of Whac-A-Mole, except instead of cute little moles, it's your employees' job responsibilities that are getting whacked left and right"</p>
+
+            And let's not forget the added benefit of inconsistency - it keeps your employees on their toes. Who needs a comfortable routine when you can throw your staff into a state of constant panic? It's like a never-ending game of musical chairs, except instead of chairs it's the expectations from their role.
+
+            Plus, think of all the laughs you'll have as your employees scramble to keep up with your ever-changing demands. Who needs to worry about their mental health and wellbeing when you can just push them to their breaking point every day? It's like a fun little experiment to see how much stress a human being can handle before they crack.
+
+            <p className="quotes">"It's like a free service of adrenaline rush, except instead of approving your employees' leaves where they can choose to jump out of a plane, they need to try to keep up with your latest mood swings. How Exciting!"</p>
+
+            And let's not forget the power of inconsistency when it comes to employee retention. Who needs a stable work environment when you can have a revolving door of new hires? It's like a constantly changing cast of characters in your own personal soap opera.
+        </>,
+        <>
+            Will Bob from accounting show up today, or will it be his wacky replacement who can't tell a spreadsheet from a ham sandwich? Who knows - it's all part of the fun.
+
+            <p className="quotes">"Why have a routine when you can have a daily game of 'Guess What Your Boss Wants Today?'"</p>
+
+            Shoot! What if your employees can't handle the stress and chaos? Who cares - there are plenty more where they came from. It's like a never-ending cycle of hiring and firing, but with way more laughs and way less job security. You are promising them a highly unstable career where they can have a wild ride that's sure to keep them on their toes!
+
+            <p className="quotes">"It's like a puzzle, but one that's missing half of the pieces and the picture keeps changing"</p>
+ 
+            So go ahead, shake things up with some inconsistency in the workplace. Who needs stability and consistency when you can have a workplace that's more like a rollercoaster ride? It's the perfect recipe for a workplace that's more like a carnival than a serious business. And if your employees can't handle the chaos? Well, that's just part of the ride, baby!
         </>
     ],
     [ // chap 13 Ethics Schmethics: How to Ignore the Rules and Get Ahead
