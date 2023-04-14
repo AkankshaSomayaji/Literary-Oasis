@@ -474,9 +474,11 @@ export const chap_contents = [
     ],
     [ // chap 13 Ethics Schmethics: How to Ignore the Rules and Get Ahead
         <>
-        Ah, ethics schmethics - the ultimate guide on how to throw caution to the wind and trample over those pesky rules to bulldoze ahead in life! Who needs to follow codes of conduct or adhere to moral principles when you can just blaze your own trail to success, no matter how ethically dubious it may be?
-
-        </>
+            Ah, ethics schmethics - the ultimate guide on how to throw caution to the wind and trample over those pesky rules to bulldoze ahead in life! Who needs to follow codes of conduct or adhere to moral principles when you can just blaze your own trail to success, no matter how ethically dubious it may be?
+            
+            <p className="quotes">Ethics? Pfft, that's just a fancy word for 'obstacles' in my pursuit of success!"</p>
+            
+            </>
     ],
     [ // chap 14 Breaking the Rules: How to Set a Terrible Example for Your Team
         <>
