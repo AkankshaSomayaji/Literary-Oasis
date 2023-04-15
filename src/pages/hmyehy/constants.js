@@ -478,7 +478,28 @@ export const chap_contents = [
             
             <p className="quotes">Ethics? Pfft, that's just a fancy word for 'obstacles' in my pursuit of success!"</p>
             
-            </>
+            Forget about playing fair or being a decent human being - it's all about finding loopholes, bending the rules, taking shortcuts, cutting corners, and stepping on anyone who gets in your way to get ahead. After all, why let a little thing like ethical considerations get in the way of your quest for power and riches? Ethics are for the weak, and you're all about showing the world just how ruthless and cunning you can be. Simply prioritize your own self-interest and pursue your ambitions without any pesky constraints.
+            
+            <p className="quotes">"Why be a team player when you can just be a team slayer and rise to the top?"</p>
+        </>,
+        <>
+            Need to seal that lucrative deal? Just sweep those conflicts of interest under the rug and use your connections to your advantage by greasing the wheels with some good old-fashioned bribery. Who cares about fairness or transparency when you can manipulate the situation to your benefit? Ethics are for the weak, and you're all about playing the game of office warfare with no holds barred.
+
+            And when it comes to social responsibility or environmental sustainability, why waste time on those bleeding-heart concerns when you can focus solely on profit margins and shareholder value? Who needs to consider the long-term consequences of their actions when they can simply maximise short-term gains? Ethics are for the idealists, and you're all about making it rain in the present, no matter the cost to the future.
+            
+            <p className="quotes">"Why follow the rules when you can just create your own rulebook and call it 'innovation'?"</p>
+            
+            Speaking of the workplace, forget about professionalism or respect - it's all about office politics, gossip, backstabbing and Machiavellian maneuvers to climb that corporate ladder. Who needs to collaborate or be a team player when you can just engage in cutthroat behavior, throw others under the bus and step on their heads to rise to the top? Ethics are for the naive, and you're all about leaving a trail of crushed souls in your wake.
+        </>,
+        <> 
+            <p className="quotes">"Playing fair is for amateurs, I prefer the thrill of bending the rules and watching my competitors squirm!"</p>
+            
+            So why bother with ethical considerations when you can just disregard them and embrace the thrill of being a morally bankrupt go-getter? Who needs a moral compass when you can just navigate the murky waters of unethical behavior with gusto and a devilish smirk on your face? After all, it's all about the destination, not the journey, right? In the end, it's all about winning the race, no matter how ethically compromised the victory may be.
+            
+            <p className="quotes">"Who needs a moral compass when you can just follow the GPS coordinates to the land of riches, regardless of whose toes you have to step on along the way?"</p>
+            
+            Ethics schmethics - who needs 'em? Just remember to bring your own moral compass if you ever decide to take the high road, but until then, enjoy the wild ride of disregarding those rules and grabbing success by the horns! Happy unethical scheming!
+        </>
     ],
     [ // chap 14 Breaking the Rules: How to Set a Terrible Example for Your Team
         <>
