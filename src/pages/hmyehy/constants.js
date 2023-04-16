@@ -507,6 +507,8 @@ export const chap_contents = [
     ],
     [ // chap 15 When Good Intentions Go Bad: The Art of Making Terrible Decisions
         <>
+        Tired of making sensible well-thought-out decisions? Ready to dive headfirst into a world of disastrous choices and regrettable outcomes? Look no further! In this guide, we'll explore the art of making terrible decisions, and how you can turn even the best intentions into a spectacular mess.
+
         </>
     ]
 ];
