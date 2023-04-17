@@ -509,6 +509,8 @@ export const chap_contents = [
         <>
         Tired of making sensible well-thought-out decisions? Ready to dive headfirst into a world of disastrous choices and regrettable outcomes? Look no further! In this guide, we'll explore the art of making terrible decisions, and how you can turn even the best intentions into a spectacular mess.
 
+        We've all been there - trying to do the right thing, only to watch it blow up in our faces. But fear not, we're here to help you take your good intentions and turn them into a comedy of errors. There is a well-known adage, "the road to hell is paved with good intentions," but why stop at the road? Let's make a grand entrance into the fiery depths with our ill-fated decision-making skills!
+
         </>
     ]
 ];
