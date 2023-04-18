@@ -511,6 +511,8 @@ export const chap_contents = [
 
         We've all been there - trying to do the right thing, only to watch it blow up in our faces. But fear not, we're here to help you take your good intentions and turn them into a comedy of errors. There is a well-known adage, "the road to hell is paved with good intentions," but why stop at the road? Let's make a grand entrance into the fiery depths with our ill-fated decision-making skills!
 
+        After all, who needs logical reasoning and thoughtful planning when you can just dive headfirst into a world of chaos and confusion? Simply wing it and watch the chaos unfold. Say goodbye to common sense and hello to epic fails!
+
         </>
     ]
 ];
