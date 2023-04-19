@@ -513,6 +513,8 @@ export const chap_contents = [
 
         After all, who needs logical reasoning and thoughtful planning when you can just dive headfirst into a world of chaos and confusion? Simply wing it and watch the chaos unfold. Say goodbye to common sense and hello to epic fails!
 
+        In this guide, we'll equip you with the tools and techniques to sabotage your own decision-making process and make sure your intentions go hilariously wrong.
+
         </>
     ]
 ];
