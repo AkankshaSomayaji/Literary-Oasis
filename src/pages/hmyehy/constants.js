@@ -515,6 +515,9 @@ export const chap_contents = [
 
         In this guide, we'll equip you with the tools and techniques to sabotage your own decision-making process and make sure your intentions go hilariously wrong.
 
+        So, buckle up and get ready to embark on a journey of decision-making disasters. We'll cover everything from ignoring expert advice to blindly following your gut instincts. Learn how to overlook critical information, jump to conclusions, and dismiss feedback with finesse. We'll even throw in a crash course on impulsive decision-making and rash judgment for good measure!
+
+ 
         </>
     ]
 ];
