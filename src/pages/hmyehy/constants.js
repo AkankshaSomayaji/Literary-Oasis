@@ -520,6 +520,8 @@ export const chap_contents = [
 
         But wait, there's more! We'll also delve into the art of blame-shifting and excuse-making, so you can seamlessly deflect responsibility for your terrible decisions onto others. Master the art of "I meant well" and "Hindsight is 20/20" to absolve yourself of any accountability.
 
+        So, say goodbye to well-thought-out plans and calculated risks, and say hello to the thrill of making terrible decisions. Get ready to revel in the aftermath of your own poor judgment and enjoy the chaos that ensues. Who needs success and positive outcomes when you can have a comedy of errors that will go down in history?
+
         </>
     ]
 ];
