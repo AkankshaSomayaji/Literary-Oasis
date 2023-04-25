@@ -522,6 +522,8 @@ export const chap_contents = [
 
         So, say goodbye to well-thought-out plans and calculated risks, and say hello to the thrill of making terrible decisions. Get ready to revel in the aftermath of your own poor judgment and enjoy the chaos that ensues. Who needs success and positive outcomes when you can have a comedy of errors that will go down in history?
 
+        So, embrace the madness, discard rationality, and let your good intentions go hilariously bad. After all, life is too short to make good decisions all the time. So why not have a little fun and make a mess of things along the way? Happy decision-making, and may your failures be the stuff of legend!
+
         </>
     ]
 ];
