@@ -524,6 +524,9 @@ export const chap_contents = [
 
         So, embrace the madness, discard rationality, and let your good intentions go hilariously bad. After all, life is too short to make good decisions all the time. So why not have a little fun and make a mess of things along the way? Happy decision-making, and may your failures be the stuff of legend!
 
+
+        From impulsive actions to reckless choices, delve into the nuances of making terrible decisions and excel at them. So, buckle up and get ready for a wild ride of blunders, missteps, and facepalms!
+
         </>
     ]
 ];
