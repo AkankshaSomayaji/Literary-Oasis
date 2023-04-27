@@ -527,6 +527,8 @@ export const chap_contents = [
 
         From impulsive actions to reckless choices, delve into the nuances of making terrible decisions and excel at them. So, buckle up and get ready for a wild ride of blunders, missteps, and facepalms!
 
+        Need to ruin a project that's going smoothly? Want to sabotage a relationship that's going great? We've got you covered! From taking shortcuts that lead to dead ends to making impulsive decisions that have long-term consequences, we'll provide you with the tools to mess things up like a pro.
+
         </>
     ]
 ];
