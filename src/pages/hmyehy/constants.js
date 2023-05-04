@@ -530,6 +530,7 @@ export const chap_contents = [
         Need to ruin a project that's going smoothly? Want to sabotage a relationship that's going great? We've got you covered! From taking shortcuts that lead to dead ends to making impulsive decisions that have long-term consequences, we'll provide you with the tools to mess things up like a pro.
 
         Remember, making terrible decisions is an art form that requires finesse and creativity. It's not just about picking the first option that comes to mind, but 
+
         </>
     ]
 ];
