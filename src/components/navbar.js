@@ -1,6 +1,5 @@
 import "./navbar.css";
-import { Button, Container, Nav, Navbar, NavDropdown, Stack } from 'react-bootstrap';
-import { BookmarkHeart, Twitter, Facebook, Instagram, Linkedin } from 'react-bootstrap-icons';
+import { Container } from 'react-bootstrap';
 
 function NavBar() {
     return (
