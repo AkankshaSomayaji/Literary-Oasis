@@ -1,0 +1,93 @@
+.website-name {
+    font-family: monospace;
+    font-size: x-large;
+    color: #a9714b;
+}
+
+.nav-links-container {
+    display: flex;
+    gap: 15px;
+    color: #141204;
+}
+
+.nav-link {
+    font-family: auto;
+}
+
+.button-container {
+    width: 320px;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+}
+
+/* Start - Button animation */
+.button {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #a9714b;
+    border: none;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.164);
+    cursor: pointer;
+    transition-duration: .3s;
+    overflow: hidden;
+    position: relative;
+}
+
+.svgIcon {
+    width: 28px;
+    transition-duration: .3s;
+}
+
+.svgIcon path {
+    fill: white;
+}
+
+.button:hover {
+    width: 140px;
+    border-radius: 50px;
+    transition-duration: .3s;
+    background-color: #141204;
+    align-items: center;
+}
+
+.button:hover .svgIcon {
+    width: 50px;
+    transition-duration: .3s;
+    transform: translateY(40%);
+}
+
+.button::before {
+    position: absolute;
+    top: -25px;
+    /* content: "Delete"; */
+    color: white;
+    transition-duration: .3s;
+    font-size: 2px;
+}
+
+.linkedin::before {
+    content: "LinkedIn";
+}
+.facebook::before {
+    content: "Facebook";
+}
+.instagram::before {
+    content: "Instagram";
+}
+.twitter::before {
+    content: "Twitter";
+}
+
+.button:hover::before {
+    font-size: 13px;
+    opacity: 1;
+    transform: translateY(30px);
+    transition-duration: .3s;
+}
+/* End - Button animation */
