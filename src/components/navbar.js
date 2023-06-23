@@ -1,14 +1,15 @@
 import "./navbar.css";
 import { Container } from 'react-bootstrap';
+import * as urls from '../utils/urls';
 
 function NavBar() {
     return (
         <Container className="navbar">
             <text className="website-name">Literary Oasis</text>
             <div className="nav-links-container">
-                <a class="nav-link" href="/home">Home</a>
-                <a class="nav-link" href="/about">About</a>
-                <a class="nav-link" href="/contact">Contact</a>
+                <a class="nav-link" href={urls.HOMEPAGE_ENDPOINT}>Home</a>
+                <a class="nav-link" href={urls.ABOUT_ENDPOINT}>About</a>
+                <a class="nav-link" href={urls.CONTACT_ENDPOINT}>Contact</a>
             </div>
             <div className="button-container">
                 <button class="button linkedin">
