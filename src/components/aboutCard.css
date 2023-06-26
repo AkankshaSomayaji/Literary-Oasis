@@ -106,14 +106,11 @@
 }
 
 .about-comp-title {
-    font-size: 11px;
-    max-width: 100%;
+    font-size: 15px;
+    height: 100%;
     display: flex;
-    justify-content: space-between;
-}
-
-.about-comp-title p {
-    width: 50%;
+    flex-wrap: wrap;
+    align-content: center;
 }
 
 .about-comp-card-footer {
