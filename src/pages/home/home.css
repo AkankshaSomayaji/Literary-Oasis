@@ -1,0 +1,25 @@
+.home-container {
+    width: 100%;
+}
+
+.home-body-container {
+    background-color: #eae5df;
+    margin-top: 10px;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.home-intro {
+    font-family: fangsong;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-bottom: 100px;
+}
+
+.home-carousel-container {
+    font-family: fangsong;
+    padding: 1% 10%;
+}

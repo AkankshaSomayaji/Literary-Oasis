@@ -3,7 +3,7 @@ import ThemeProvider from "react-bootstrap/ThemeProvider";
 import './App.scss';
 import "@fontsource/caveat";
 import * as urls from "./utils/urls";
-import Home from "./pages/home";
+import Home from "./pages/home/home";
 import About from "./pages/about";
 import Contact from "./pages/contact";
 import HMYEHY from "./pages/hmyehy/hmyehy";

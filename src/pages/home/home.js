@@ -1,12 +1,13 @@
+import './home.css';
 import { Button, OverlayTrigger, Tooltip, Carousel, Container } from 'react-bootstrap';
-import NavBar from '../components/navbar';
-import * as constants from './constants';
+import NavBar from '../../components/navbar';
+import * as constants from '../constants';
 
 const Home = () => {
     return (
-        <div className="home-container">
+        <div className='home-container'>
             <NavBar/>
-            <div style={{backgroundColor:"#eae5df", marginTop:"60px"}}>
+            <div className='home-body-container'>
                 <OverlayTrigger
                     key="right"
                     placement="right"
@@ -21,13 +22,13 @@ const Home = () => {
                     </Button>
                 </OverlayTrigger>
 
-                <div style={{padding:"1% 10%", fontFamily:"fangsong"}}>
-                    <Container style={{display:"flex", flexDirection:"column", gap:"30px", marginBottom:"100px"}}>
-                        <text> {constants.HomeIntro1} </text>
-                        <text> {constants.HomeIntro2} </text>
-                        <text> {constants.HomeIntro3} </text>
-                    </Container>
+                <Container className='home-intro'>
+                    <text> {constants.HomeIntro1} </text>
+                    <text> {constants.HomeIntro2} </text>
+                    <text> {constants.HomeIntro3} </text>
+                </Container>
 
+                <div className='home-carousel-container'>
                     <Carousel fade> {/* default:keyboard pasue="hover" touch */}
                         <Carousel.Item interval={3000}>
                             <img
