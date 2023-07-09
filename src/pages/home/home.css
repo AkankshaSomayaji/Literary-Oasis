@@ -19,6 +19,15 @@
     margin-bottom: 100px;
 }
 
+.home-button-tooltip {
+    margin-top: 25px;
+    font-family: fangsong;
+}
+
+.home-button-tooltip:hover {
+    background-color: #ddbea8;
+}
+
 .home-carousel-container {
     font-family: fangsong;
     padding: 1% 10%;

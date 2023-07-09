@@ -1,5 +1,5 @@
 import './home.css';
-import { Button, OverlayTrigger, Tooltip, Carousel, Container } from 'react-bootstrap';
+import { Button, OverlayTrigger, Tooltip, Carousel } from 'react-bootstrap';
 import NavBar from '../../components/navbar';
 import * as constants from '../constants';
 
@@ -10,23 +10,23 @@ const Home = () => {
             <div className='home-body-container'>
                 <OverlayTrigger
                     key="right"
-                    placement="right"
+                    placement="top"
                     overlay={
                         <Tooltip>
                             Yes, you! <br/><strong>Straigten your back now!</strong>
                         </Tooltip>
                     }
                 >
-                    <Button as="a" variant="warning" style={{marginTop:"25px", fontFamily:"fangsong"}}>
+                    <Button as="a" className='home-button-tooltip'>
                         Hello there, fellow developer + reader!
                     </Button>
                 </OverlayTrigger>
 
-                <Container className='home-intro'>
+                <div className='home-intro'>
                     <text> {constants.HomeIntro1} </text>
                     <text> {constants.HomeIntro2} </text>
                     <text> {constants.HomeIntro3} </text>
-                </Container>
+                </div>
 
                 <div className='home-carousel-container'>
                     <Carousel fade> {/* default:keyboard pasue="hover" touch */}
