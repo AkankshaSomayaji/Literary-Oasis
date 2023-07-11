@@ -2,6 +2,7 @@ import './home.css';
 import { Button, OverlayTrigger, Tooltip, Carousel } from 'react-bootstrap';
 import NavBar from '../../components/navbar';
 import * as constants from '../constants';
+import CarouselCard from '../../components/carouselCard';
 
 const Home = () => {
     return (
@@ -31,28 +32,20 @@ const Home = () => {
                 <div className='home-carousel-container'>
                     <Carousel fade> {/* default:keyboard pasue="hover" touch */}
                         <Carousel.Item interval={3000}>
-                            <img
-                                className="d-block w-100"
-                                src="https://media.geeksforgeeks.org/wp-content/uploads/20210425122739/2-300x115.png"
-                                alt="Book One"
+                            <CarouselCard
+                                title={<h3>How to Make Your Employees Hate You : <br/> An Idiot's Guide to Management</h3>}
+                                info="Creating a Toxic Work Environment, One Bad Decision at a Time"
+                                bg={"72, 209, 204"}
+                                bgOnHover={"173, 216, 230"}
                             />
-                            <Carousel.Caption>
-                                <h3>How to Make Your Employees Hate You : An Idiot's Guide to Management</h3>
-                                <p>Creating a Toxic Work Environment, One Bad Decision at a Time</p>
-                                {/* <p>Why Be a Good Manager When You Can Be a Terrible One? A Study in Ineptitude</p> */}
-                                {/* <p>Avoiding Success at All Costs: The Ultimate Handbook for Bad Managers</p> */}
-                            </Carousel.Caption>
                         </Carousel.Item>
                         <Carousel.Item interval={3000}>
-                            <img
-                                className="d-block w-100"
-                                src="https://media.geeksforgeeks.org/wp-content/uploads/20210425122716/1-300x115.png"
-                                alt="Book Two"
+                            <CarouselCard
+                                title={<h3>Why Be a Good Manager <br/> When You Can Be a Terrible One? : <br/> A Study in Ineptitude</h3>}
+                                info="Avoiding Success at All Costs: The Ultimate Handbook for Bad Managers"
+                                bg={"209, 72, 122"}
+                                bgOnHover={"230, 173, 203"}
                             />
-                            <Carousel.Caption>
-                                <h3>Label for second slide</h3>
-                                <p>Sample Text for Image Two</p>
-                            </Carousel.Caption>
                         </Carousel.Item>
                     </Carousel>
                 </div>
