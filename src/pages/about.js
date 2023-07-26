@@ -9,7 +9,7 @@ function About() {
     return (
         <div className="about-container">
             <NavBar/>
-            <div style={{backgroundColor:"#eae5df", marginTop:"60px"}}>
+            <div style={{backgroundColor:"#eae5df", marginTop:"10px"}}>
                 <Table style={{backgroundColor:"#eae5df"}} bordered>
                     <tbody>
                         <tr>

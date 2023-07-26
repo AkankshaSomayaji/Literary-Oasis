@@ -7,7 +7,7 @@ function Contact() {
     return (
         <div className="contact-container">
             <NavBar/>
-            <div style={{backgroundColor:"#eae5df", marginTop:"60px", display:"flex", alignItems:"center", minHeight:"94vh"}}>
+            <div style={{backgroundColor:"#eae5df", marginTop:"10px", display:"flex", alignItems:"center", minHeight:"94vh"}}>
                 <Image
                     className="d-block"
                     src={chatImage}
