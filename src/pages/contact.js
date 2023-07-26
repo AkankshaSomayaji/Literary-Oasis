@@ -1,3 +1,4 @@
+import './general.css';
 import { Image } from 'react-bootstrap';
 import NavBar from '../components/navbar';
 import chatImage from '../images/girl-boy-chat-nobg.png';
@@ -15,7 +16,7 @@ function Contact() {
                     width={600}
                     height={500}
                 />
-                <div style={{display:"flex", flexDirection:"column", alignItems:"flex-start"}}>
+                <div className='contact-code'>
                     <p>{constants.contact1}</p>
                     <p>{constants.contact2}</p>
                     <p>{constants.contact3}</p>
