@@ -1,4 +1,13 @@
 /* contact page */
+.contact-body {
+    background-color: rgb(234, 229, 223);
+    margin-top: 10px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    min-height: 94vh;
+}
+
 .contact-code {
     display: flex;
     flex-direction: column;
