@@ -4,6 +4,7 @@
 
 .home-body-container {
     background-color: #eae5df;
+    min-height: 100vh;
     margin-top: 10px;
     padding: 32px;
     display: flex;
