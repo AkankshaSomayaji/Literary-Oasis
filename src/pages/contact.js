@@ -18,15 +18,18 @@ function Contact() {
                 />
                 <div className='contact-code'>
                     <text>{constants.contact1}</text>
+                    <text>{constants.contact1_1}</text>
                     <text>{constants.contact2}</text>
+                    <text>{constants.contact2_1}</text>
                     <text>{constants.contact3}</text>
-                    <text style={{paddingLeft:"20px"}}>{constants.contact4}</text>
-                    <text style={{paddingLeft:"20px"}}>{constants.contact5}</text>
-                    <text style={{paddingLeft:"20px"}}>{constants.contact6}</text>
-                    <text style={{paddingLeft:"40px"}}>{constants.contact7}</text>
-                    <text style={{paddingLeft:"40px"}}>{constants.contact8}</text>
-                    <text style={{paddingLeft:"40px"}}>{constants.contact9}</text>
-                    <text style={{paddingLeft:"20px"}}>{constants.contact10}</text>
+                    <text>{constants.contact3_1}</text>
+                    <text>{constants.contact3_1_1}</text>
+                    <text>{constants.contact3_2}</text>
+                    <text>{constants.contact3_2_1}</text>
+                    <text>{constants.contact3_3}</text>
+                    <text>{constants.contact3_3_1}</text>
+                    <text>{constants.contact3_3_2}</text>
+                    <text>{constants.contact3_3_3}</text>
                 </div>
             </div>
         </div>

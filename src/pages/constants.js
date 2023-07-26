@@ -21,13 +21,16 @@ export const about14 = "I have a terrible memory, so don't be offended if I forg
 export const about15 = "I have a degree in computer science, but my real passion is eating pizza and watching Netflix.";
 
 //contact
-export const contact1 = "if(robot) info(Please identify yourself as such. I'm still trying to figure out who's who in this world)";
-export const contact2 = "elif(spammer) info(Congratulations! You've managed to find the only person in the world who doesn't care about free money)";
+export const contact1 = "if(robot)";
+export const contact1_1 = "info(Please identify yourself as such. I'm still trying to figure out who's who in this world)";
+export const contact2 = "elif(spammer)";
+export const contact2_1 = "info(Congratulations! You've managed to find the only person in the world who doesn't care about free money)";
 export const contact3 = "elif(human)";
-export const contact4 = "    if(offering me a job) request(Please send pizza as a sign of good faith. It's the universal currency for developers)";
-export const contact5 = "    elif(looking for a date) alert(Back off! My dating pool is limited to software updates and bug fixes only)";
-export const contact6 = "    else {";
-export const contact7 = "          hurray(Congratulations! You're one of the few who have managed to penetrate my digital fortress)";
-export const contact8 = "          warning(If you're trying to reach me, please leave a message after the beep. Just know that the beep is actually me sobbing into my keyboard)";
-export const contact9 = "          request(Please be gentle. My social skills are rusty, and I'm prone to short-circuiting in social situations)";
-export const contact10 = "    }";
+export const contact3_1 = "if(offering me a job)";
+export const contact3_1_1 = "request(Please send pizza as a sign of good faith. It's the universal currency for developers)";
+export const contact3_2 = "elif(looking for a date)";
+export const contact3_2_1 = "alert(Back off! My dating pool is limited to software updates and bug fixes only)";
+export const contact3_3 = "else";
+export const contact3_3_1 = "hurray(Congratulations! You're one of the few who have managed to penetrate my digital fortress)";
+export const contact3_3_2 = "warning(If you're trying to reach me, please leave a message after the beep. Just know that the beep is actually me sobbing into my keyboard)";
+export const contact3_3_3 = "request(Please be gentle. My social skills are rusty, and I'm prone to short-circuiting in social situations)";
