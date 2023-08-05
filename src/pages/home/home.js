@@ -35,6 +35,7 @@ const Home = () => {
                             <CarouselCard
                                 title={<h3>How to Make Your Employees Hate You : <br/> An Idiot's Guide to Management</h3>}
                                 info="Creating a Toxic Work Environment, One Bad Decision at a Time"
+                                hlink='/hmyehy'
                                 bg={"72, 209, 204"}
                                 bgOnHover={"173, 216, 230"}
                             />
@@ -43,6 +44,7 @@ const Home = () => {
                             <CarouselCard
                                 title={<h3>Why Be a Good Manager <br/> When You Can Be a Terrible One? : <br/> A Study in Ineptitude</h3>}
                                 info="Avoiding Success at All Costs: The Ultimate Handbook for Bad Managers"
+                                hlink='/'
                                 bg={"209, 72, 122"}
                                 bgOnHover={"230, 173, 203"}
                             />
