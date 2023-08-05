@@ -12,7 +12,8 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    text-align: left;
     background: RGB(245, 240, 234);
     border-radius: 20px;
-    padding: 20px;
+    padding: 40px 20px;
 }

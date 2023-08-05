@@ -18,18 +18,18 @@ function Contact() {
                 />
                 <div className='contact-code'>
                     <text>{constants.contact1}</text>
-                    <text>{constants.contact1_1}</text>
+                    <text style={{paddingLeft:"2em"}}>{constants.contact1_1}</text>
                     <text>{constants.contact2}</text>
-                    <text>{constants.contact2_1}</text>
+                    <text style={{paddingLeft:"2em"}}>{constants.contact2_1}</text>
                     <text>{constants.contact3}</text>
-                    <text>{constants.contact3_1}</text>
-                    <text>{constants.contact3_1_1}</text>
-                    <text>{constants.contact3_2}</text>
-                    <text>{constants.contact3_2_1}</text>
-                    <text>{constants.contact3_3}</text>
-                    <text>{constants.contact3_3_1}</text>
-                    <text>{constants.contact3_3_2}</text>
-                    <text>{constants.contact3_3_3}</text>
+                    <text style={{paddingLeft:"2em"}}>{constants.contact3_1}</text>
+                    <text style={{paddingLeft:"4em"}}>{constants.contact3_1_1}</text>
+                    <text style={{paddingLeft:"2em"}}>{constants.contact3_2}</text>
+                    <text style={{paddingLeft:"4em"}}>{constants.contact3_2_1}</text>
+                    <text style={{paddingLeft:"2em"}}>{constants.contact3_3}</text>
+                    <text style={{paddingLeft:"4em"}}>{constants.contact3_3_1}</text>
+                    <text style={{paddingLeft:"4em"}}>{constants.contact3_3_2}</text>
+                    <text style={{paddingLeft:"4em"}}>{constants.contact3_3_3}</text>
                 </div>
             </div>
         </div>
