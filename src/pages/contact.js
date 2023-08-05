@@ -27,8 +27,8 @@ function Contact() {
                     <text style={{paddingLeft:"2em"}}>{constants.contact3_2}</text>
                     <text style={{paddingLeft:"4em"}}>{constants.contact3_2_1}</text>
                     <text style={{paddingLeft:"2em"}}>{constants.contact3_3}</text>
-                    <text style={{paddingLeft:"4em"}}>{constants.contact3_3_1}</text>
-                    <text style={{paddingLeft:"4em"}}>{constants.contact3_3_2}</text>
+                    <text style={{paddingLeft:"4em", paddingBottom:"0.5em"}}>{constants.contact3_3_1}</text>
+                    <text style={{paddingLeft:"4em", paddingBottom:"0.5em"}}>{constants.contact3_3_2}</text>
                     <text style={{paddingLeft:"4em"}}>{constants.contact3_3_3}</text>
                 </div>
             </div>
