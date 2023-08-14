@@ -507,61 +507,84 @@ export const chap_contents = [
     ],
     [ // chap 15 When Good Intentions Go Bad: The Art of Making Terrible Decisions
         <>
-        Tired of making sensible well-thought-out decisions? Ready to dive headfirst into a world of disastrous choices and regrettable outcomes? Look no further! In this guide, we'll explore the art of making terrible decisions, and how you can turn even the best intentions into a spectacular mess.
+            Tired of making sensible well-thought-out decisions? Ready to dive headfirst into a world of disastrous choices and regrettable outcomes? Look no further! In this guide, we'll explore the art of making terrible decisions, and how you can turn even the best intentions into a spectacular mess.
 
-        We've all been there - trying to do the right thing, only to watch it blow up in our faces. But fear not, we're here to help you take your good intentions and turn them into a comedy of errors. There is a well-known adage, "the road to hell is paved with good intentions," but why stop at the road? Let's make a grand entrance into the fiery depths with our ill-fated decision-making skills!
+            <p className="quotes">"Ah, 'When Good Intentions Go Bad.' A timeless tale of how trying to be a hero can turn you into a zero. Marvelous life lesson, really."</p>
+            
+            We've all been there - trying to do the right thing, only to watch it blow up in our faces. But fear not, we're here to help you take your good intentions and turn them into a comedy of errors. There is a well-known adage, "the road to hell is paved with good intentions," but why stop at the road? Let's make a grand entrance into the fiery depths with our ill-fated decision-making skills!
 
-        In this guide, we'll equip you with the tools and techniques to sabotage your own decision-making process and make sure your intentions go hilariously wrong.
-        So, buckle up and get ready to embark on a journey of decision-making disasters. After all, who needs logical reasoning and thoughtful planning anyways? From ignoring expert advice to blindly following your gut instincts, we've got you covered.
+            <p className="quotes">"Pro tip: If you ever find yourself lost in the forest of logic, just follow the breadcrumbs of good intentions. You'll end up in Wonderland, where the tea's mad and the logic is... well, it isn't. Enjoy your illogical escapade!"</p>
+        </>,
+        <>
+            In this guide, we'll equip you with the tools and techniques to sabotage your own decision-making process and make sure your intentions go hilariously wrong.
+            So, buckle up and get ready to embark on a journey of decision-making disasters. After all, who needs logical reasoning and thoughtful planning anyways?
 
-        But wait, there's more! We'll also delve into the art of blame-shifting and excuse-making, so you can seamlessly deflect responsibility for your terrible decisions onto others. Master the art of "I meant well" and "Hindsight is 20/20" to absolve yourself of any accountability.
+            <br/><br/>
+
+            From ignoring expert advice to blindly following your gut instincts, we've got you covered. 
+            But wait, there's more! We'll also delve into the art of blame-shifting and excuse-making, so you can seamlessly deflect responsibility for your terrible decisions onto others. Master the art of "I meant well" and "Hindsight is 20/20" to absolve yourself of any accountability.
+            
+            <p className="quotes">"Why settle for the ordinary path of success when you can blaze a trail of chaos and confusion? Terrible decisions: the ultimate status symbol."</p>
+            
+            Get ready to embrace the art of catastrophic choices like a pro! Wave adieu to pesky common sense and embrace the glory of epic fails. Marvel at your newfound ability to ignore essential details, leap recklessly to conclusions, and swat away feedback like a champ. And if that's not enough, brace yourself for the intensive "Impulsive Decision Olympics," where you'll master the fine art of snap judgments!
+        </>,
+        <>
+            <p className="quotes">"Life's a playground, and I'm the master of monkeying around with decisions. Who needs sanity when you can have spectacular chaos?"</p>
         
-        ---------
+            So why bother with pesky well-thought-out plans and those tiresome calculated risks? Say hello to the adrenaline rush of terrible decisions! Prepare to bask in the radiant glow of your own bewildering choices, and watch in awe as chaos performs its enchanting dance around you. It's not just a lifestyle, it's an adventure in absurdity!
+            
+            <br/><br/>
+            Who needs success and those pesky positive results when you can orchestrate a grand symphony of errors that will go down in history?
+            So, embrace the madness, discard rationality, and let your well-intended endeavors spiral into glorious calamity. After all, who has time for flawless choices? Life is too short to make good decisions all the time.So let loose, create chaos, and revel in the masterpiece of your missteps. Happy decision-making, and may your failures be the stuff of legend!
+            
+            <p className="quotes">"Oh, the sweet symphony of unintended consequences. It's like Beethoven composed a concerto just for our misguided brilliance."</p>
+            
+            From impulsive actions to reckless choices, delve into the nuances of making terrible decisions and excel at them. Embark on a journey through mastering dreadful choices, from spontaneous antics to audacious selections. So, buckle up for a wild ride of blunders, missteps, and facepalms!
+        </>,
+        <>
+            Remember, making terrible decisions is an art form that requires finesse and creativity. It's not just about picking the first option that comes to mind, but about carefully choosing the most illogical and disastrous course of action. It's about ignoring warning signs, brushing off feedback, and going against all reason and logic.
+            <br/><br/>
+            Embrace the chaos and let your good intentions take a detour into the unknown! Watch as your friends, family, and colleagues marvel at your ability to turn simple situations into complex disasters. Who craved smooth sailing when you can be the maestro of perplexity and pandemonium through your less-than-stellar choices and create a storm of confusion and chaos with your poor decision-making skills?
+            
+            <p className="quotes">"In the grand tapestry of life, making terrible decisions is the thread that ties us all together. It's the universal language of, 'Oops, I did it again.'"</p>
+            
+            As for consequences, pshaw! Who needs to learn from mistakes when you can just keep making new ones? After all, why settle for a mundane menu of average accomplishments when you can add a sprinkle of failure and a pinch of disappointment to truly savor life's vibrant spectrum?
+        
+            <p className="quotes">"If success is a puzzle, then making terrible decisions is that missing piece you didn't know you needed. You're welcome."</p>
+        </>,
+        <>
+            So, let go of common sense, throw caution to the wind, and revel in the art of making terrible decisions. Embrace the messiness, laugh at the chaos, and celebrate your unique ability to turn good intentions into epic disasters. Who said life was about making wise choices anyway? Cheers to the art of bad decision-making!
+            <br/><br/>
+        
+            Here are some tongue-in-cheek suggestions for things you can do to achieve the art of making terrible decisions:
+            <br/><br/>
 
-        Say goodbye to common sense and hello to epic fails! Learn how to overlook critical information, jump to conclusions, and dismiss feedback with finesse. We'll even throw in a crash course on impulsive decision-making and rash judgment for good measure!
-
-        So, say goodbye to well-thought-out plans and calculated risks, and say hello to the thrill of making terrible decisions. Get ready to revel in the aftermath of your own poor judgment and enjoy the chaos that ensues. Who needs success and positive outcomes when you can have a comedy of errors that will go down in history?
-
-        So, embrace the madness, discard rationality, and let your good intentions go hilariously bad. After all, life is too short to make good decisions all the time. So why not have a little fun and make a mess of things along the way? Happy decision-making, and may your failures be the stuff of legend!
-
-
-        From impulsive actions to reckless choices, delve into the nuances of making terrible decisions and excel at them. So, buckle up and get ready for a wild ride of blunders, missteps, and facepalms!
-
-        Need to ruin a project that's going smoothly? Want to sabotage a relationship that's going great? We've got you covered! From taking shortcuts that lead to dead ends to making impulsive decisions that have long-term consequences, we'll provide you with the tools to mess things up like a pro.
-
-        Remember, making terrible decisions is an art form that requires finesse and creativity. It's not just about picking the first option that comes to mind, but about carefully choosing the most illogical and disastrous course of action. It's about ignoring warning signs, brushing off feedback, and going against all reason and logic.
-
-        So, embrace the chaos and let your good intentions go awry! Watch as your friends, family, and colleagues marvel at your ability to turn simple situations into complex disasters. Who needs smooth sailing when you can create a storm of confusion and chaos with your poor decision-making skills?
-
-        And don't worry about the consequences! Who needs to learn from mistakes when you can just keep making new ones? After all, why settle for mediocrity and success when you can spice things up with a dash of failure and disappointment?
-
-        So, let go of common sense, throw caution to the wind, and revel in the art of making terrible decisions. Embrace the messiness, laugh at the chaos, and celebrate your unique ability to turn good intentions into epic disasters. Who said life was about making wise choices anyway? Cheers to the art of bad decision-making!
-
-
-        Here are some tongue-in-cheek suggestions for things you can do to achieve the art of making terrible decisions:
-
-            Make impulsive decisions without considering the consequences. Ignore any rational thinking or logical reasoning that may come your way. The more impulsive and hasty, the better!
-
-            Disregard feedback and advice from others. Who needs input from experienced colleagues or mentors when you can trust your gut feeling, even if it leads you astray? Reject any constructive criticism or feedback that comes your way.
-
-            Ignore warning signs and red flags. When faced with obvious signs that something might go wrong, turn a blind eye and proceed full steam ahead. After all, what's life without a little risk and danger?
-
-            Take shortcuts whenever possible. Why bother with thorough research or planning when you can cut corners and skip crucial steps? Embrace the "wing it" mentality and see where it takes you!
-
-            Procrastinate and delay important decisions. Put off making decisions until the last minute or even later. The more you delay, the more chaotic and disastrous the outcome may be!
-
-            Overcommit and spread yourself too thin. Say "yes" to every opportunity that comes your way, regardless of your capacity or expertise. Stretch yourself to the point of exhaustion and watch the chaos unfold.
-
-            Disregard established processes and protocols. Who needs standard operating procedures or best practices? Make up your own rules as you go along and watch the confusion ensue!
-
-            Make emotional decisions without considering facts or data. Let your emotions take the wheel and drive your decision-making process. The more impulsive and emotional, the more likely it is to result in a terrible decision.
-
-            Avoid learning from past mistakes. Repeat the same mistakes over and over again without reflecting on the lessons learned. After all, who needs growth and improvement when you can keep making the same blunders?
-
-            Blame others for your mistakes. When things go south, never take responsibility for your poor decisions. Blame others, point fingers, and deflect any accountability. It's much easier to shift the blame than to own up to your errors.
-
-        Remember, these are all sarcastic and humorous suggestions meant to highlight the absurdity of making terrible decisions. In reality, wise decision-making and thoughtful consideration are key to success in any endeavor. So, embrace the satire and have a laugh, but always strive to make informed and responsible choices in your personal and professional life!
-
+                1) Make impulsive decisions without considering the consequences. Ignore any rational thinking or logical reasoning that may come your way. The more impulsive and hasty, the better!
+                <br/><br/>
+                2) Disregard feedback and advice from others. Who needs input from experienced colleagues or mentors when you can trust your gut feeling, even if it leads you astray? Reject any constructive criticism or feedback that comes your way.
+                <br/><br/>
+                3) Ignore warning signs and red flags. When faced with obvious signs that something might go wrong, turn a blind eye and proceed full steam ahead. After all, what's life without a little risk and danger?
+                <br/><br/>
+                4) Take shortcuts whenever possible. Why bother with thorough research or planning when you can cut corners and skip crucial steps? Embrace the "wing it" mentality and see where it takes you!
+        </>,
+        <>
+                5) Procrastinate and delay important decisions. Put off making decisions until the last minute or even later. The more you delay, the more chaotic and disastrous the outcome may be!
+                <br/><br/>
+                6) Overcommit and spread yourself too thin. Say "yes" to every opportunity that comes your way, regardless of your capacity or expertise. Stretch yourself to the point of exhaustion and watch the chaos unfold.
+                <br/><br/>
+                7) Disregard established processes and protocols. Who needs standard operating procedures or best practices? Make up your own rules as you go along and watch the confusion ensue!
+                
+                <p className="quotes">"Remember, folks, the difference between a genius and a fool is just the size of their good intentions. Or maybe it's the other way around?"</p>
+        
+                8) Make emotional decisions without considering facts or data. Let your emotions take the wheel and drive your decision-making process. The more impulsive and emotional, the more likely it is to result in a terrible decision.
+                <br/><br/>
+                9) Avoid learning from past mistakes. Repeat the same mistakes over and over again without reflecting on the lessons learned. After all, who needs growth and improvement when you can keep making the same blunders?
+        </>,
+        <>
+                10) Blame others for your mistakes. When things go south, never take responsibility for your poor decisions. Blame others, point fingers, and deflect any accountability. It's much easier to shift the blame than to own up to your errors.
+            
+            <br/><br/>
+            Here's to gleeful decision-making and a legacy of legendary fiascos!
         </>
     ]
 ];
