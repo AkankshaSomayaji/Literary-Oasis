@@ -503,6 +503,37 @@ export const chap_contents = [
     ],
     [ // chap 14 Breaking the Rules: How to Set a Terrible Example for Your Team
         <>
+            Ready to trade in your boring, responsible and respected leader persona for that of a workplace anarchist?? Do you find yourself longing for ways to undermine your team's morale and create chaos in the workplace? Want to spice up your workplace by bringing in a circus of confusion and dysfunction?
+            <br/><br/>
+            Look no further, because we've got you covered! We'll show you how to break all the rules and set a hilariously bad example for your team in this guide. Get ready to toss professionalism out the window and embrace the madness like never before. It's time to turn your workplace into a thrilling roller coaster of mayhem and hilarity, with you at the helm as the captain of chaos!
+
+            <p className="quotes"> 1. "Who needs rules when you can be a rebel with no cause? Why be a role model when you can be a cautionary tale?" Set a terrible example by breaking every rule and watch your team follow the suit - chaos is guaranteed!" </p>
+            <p className="quotes"> 2. "Deficiencies are for losers!" Procrastinate like a pro, and your team will be left scrambling to meet impossible deadlines. Embrace the thrill of last-minute panic. Isn't it all about the adrenaline rush?" </p>
+        </>,
+        <>
+            <p className="quotes"> 3. "Why waste time on clear communication when you can speak in riddles and use emojis to convey important messages? <br/> Keep your team guessing and boost their puzzle-solving skills!" </p>
+            <p className="quotes"> 4. "Meetings are for amateurs. Show up fashionably late, leave dramatically early, and make sure to dominate every conversation. Your team will love the show!" </p>
+            <p className="quotes"> 5. "Sick days are for the weaklings. Come to work with contagious illnesses and share the love with your team. <br/> Spread germs like a champ!" </p>
+            <p className="quotes"> 6. "Performance evaluations? Just roll the dice and assign ratings randomly. It's like a game of chance, and your team will love the unpredictability!" </p>
+            <p className="quotes"> 7. "Blame game anyone? Never take responsibility for your mistakes. Blame others, and watch your team play the finger-pointing game. Show your team how to pass the buck like a pro!" </p>
+            <p className="quotes"> 8. "Professionalism is overrated. Send inappropriate memes, use excessive emojis, never type without exclamation points! and gossip like a teenager. <br/> Your team will see you as the ultimate cool kid!" </p>
+        </>,
+        <>
+            <p className="quotes"> 9. "Feedback? Nah, just ignore it or sugarcoat everything to the point of nausea. Honest feedback is so overrated. Keep your team in the dark and discourage open and honest communication!" </p>
+            <p className="quotes"> 10. "Why have a work-life balance when you can work like a maniac around the clock? Show them how to sacrifice their well-being for the sake of the job! Sleep is for the weak and burnout is the new black!" </p>
+            
+            Remember, breaking the rules and setting a terrible example for your team requires finesse and a wicked sense of humor, and a knack for throwing professionalism out the window. So go ahead, unleash your inner rebel, and watch your team scramble to keep up with the absurdity of your antics. Just be prepared for the consequences, or maybe not. Who needs a well-oiled machine of a team when you can have a sideshow of workplace mayhem? After all, who needs deadlines, order, and teamwork when you can have confusion, chaos, and belly laughs?
+            <br/><br/>
+            So, gear up for your new role as the master of madness, and get ready to leave your team scratching their heads in bewilderment. Take pleasure in creating a workplace atmosphere where "norms" and "expectations" are mere suggestions, and "consequences" are just a figment of imagination. Who needs accountability and structure when you can have a free-for-all of rule-breaking fun?
+        </>,
+        <>
+            Remember, a wicked sense of humor is crucial to pulling off this feat. So, embrace the laughter as you dismantle the traditional notions of leadership and management. Your team will be left in awe of your unparalleled ability to create pandemonium and perplexity in the office. Who needs a well-behaved team when you can have a circus of confusion?
+            <br/><br/>
+            And hey, if things go haywire and you find yourself in hot water with HR or the company executives, just remember to flash that winning smile and say, "Rules? Ethics? Schmethics!" After all, who needs ethical guidelines and professional integrity when you can bask in the glory of being a workplace renegade?
+            <br/><br/>
+            So, go forth and break those rules with gusto! Embrace the mayhem, revel in the chaos, and set a terrible example that will go down in workplace folklore. Who needs a boring, predictable work environment when you can create a legend of your own?
+            <br/><br/>
+            Happy rule-breaking, may your office become a playground of unpredictable hilarity and let the workplace madness begin!
         </>
     ],
     [ // chap 15 When Good Intentions Go Bad: The Art of Making Terrible Decisions
