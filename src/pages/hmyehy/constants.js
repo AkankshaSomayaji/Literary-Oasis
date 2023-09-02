@@ -358,15 +358,25 @@ export const chap_contents = [
     ],
     [ // chap 9 The Lazy Manager's Guide to Delegation: How to Do Nothing and Get Away with It
         <>
-            Ah, the lazy manager's secret to success! It's so simple, even a sloth could do it. Just delegate every task imaginable to your hard-working employees, then sit back and relax while they do all the heavy lifting. And if anything goes wrong, blame them for their mistakes, because after all, you're the manager and you can do no wrong. But how do you ensure that you get all the glory while doing nothing at all? That's where this guide comes in.
+            Ah, the lazy manager's secret to success! It's so simple, even a sloth could do it. Just delegate every task imaginable to your hard-working employees, then sit back and relax while they do all the heavy lifting. And if anything goes wrong, blame them for their mistakes, because after all, you're the manager and you can do no wrong. But how do you ensure that you bask in the glory while doing nothing at all? That's where this guide comes in.
 
             <p className="quotes">"Why work hard when you can just assign tasks and take a nap?"</p>
             
-            Step one: Establish your authority. It's important that your employees understand who's in charge here. Make sure they know that you are the one calling the shots, and that they are merely there to do your bidding. This way, they'll be more likely to do what you say, without questioning your lack of involvement.
+            Step one: Establish your authority. It's important that your employees understand who's in charge here. Ensure that your underlings understand you're the sun, and they're just the planets revolving around your brilliance. Make them realize that you're the puppeteer pulling the strings, and they're the marionettes dancing to your tune. It's not about teamwork; it's about you being the undisputed overlord. This way, they'll be more likely to do what you say, without questioning your lack of involvement.
+        </>,
+        <>
+            <p className="quotes">"Establishing authority as a manager is easy - just show up to work wearing a cape and carrying a megaphone. I recommend bringing in a live band to play your entrance music. Trust me, they'll know who's boss."</p>
+            
+            Step two: "The Art of Selective Oversight." While your minions work diligently, adopt the role of a vigilant overseer - selectively, of course, you don't want to waste precious energy monitoring your underlings' every move. Instead, embrace the fine art of sporadic surveillance.
+            <br/><br/>
+            Wander into the office like a bored tourist, offering intermittent glimpses of your managerial presence. Occasionally stroll by their desks, peering over their shoulders like a hawk eyeing its prey. You don't actually need to understand what they're doing; just look concerned or impressed, depending on your mood.
+            <br/><br/>
+            An Ideal scenario would be when they're about to click "send" on that important email, and drop some vague comments like, "Hmm, interesting choice of font." Then, vanish like a ninja in the night, leaving your minions to second-guess their font selections for the rest of the day.
             
             <p className="quotes">"Taking credit for other people's work is like stealing candy from a baby, but without the guilt."</p>
-
-            <p className="quotes">"Establishing authority as a manager is easy - just show up to work wearing a cape and carrying a megaphone. I recommend bringing in a live band to play your entrance music. Trust me, they'll know who's boss."</p>
+        </>,
+        <>
+            Step three: "The Blame Game Maestro." Ah, the crown jewel of laziness! When things inevitably go south, put on your finest act. Shift the blame faster than a magician pulling rabbits from a hat. It's not your fault; it's theirs. You're the infallible manager, after all.
         </>,
         
     ],
