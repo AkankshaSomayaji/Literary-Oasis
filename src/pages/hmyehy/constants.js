@@ -363,6 +363,8 @@ export const chap_contents = [
             <p className="quotes">"Why work hard when you can just assign tasks and take a nap?"</p>
             
             Step one: Establish your authority. It's important that your employees understand who's in charge here. Ensure that your underlings understand you're the sun, and they're just the planets revolving around your brilliance. Make them realize that you're the puppeteer pulling the strings, and they're the marionettes dancing to your tune. It's not about teamwork; it's about you being the undisputed overlord. This way, they'll be more likely to do what you say, without questioning your lack of involvement.
+            <br/>
+            In the end, you'll have your workforce walking on eggshells so thin they'd make a tightrope seem sturdy.
         </>,
         <>
             <p className="quotes">"Establishing authority as a manager is easy - just show up to work wearing a cape and carrying a megaphone. I recommend bringing in a live band to play your entrance music. Trust me, they'll know who's boss."</p>
