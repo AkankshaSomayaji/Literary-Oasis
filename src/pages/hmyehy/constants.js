@@ -112,19 +112,39 @@ export const chap_contents = [
             Ah, the joys of being an employer. While many believe that employee morale is an essential aspect of running a successful business, others see it as a mere distraction from achieving profits. If you belong to the latter group, fear not! In this guide, we will teach you how to crush your employee's morale in three easy steps.
             <br/><br/>
             Step 1: Micromanage Like Your Life Depends On It
-            <br/>
+            <br/><br/>
             Ah, micromanagement, the perfect tool to let your employees know that you don't trust them at all. Who needs autonomy and independence when you can have someone breathing down your neck 24/7? Make sure to check in on your employees every five minutes, and if they haven't completed a task within a nanosecond of receiving it, make sure to berate them in front of everyone. Remember, nothing boosts morale like making someone feel incompetent and worthless.
-            <br/><br/>
+            
+            <p className="quotes">"Remember, in the world of micromanagement, every breath your employees take is a chance for you to critique their oxygen intake."</p>
+          </>,
+          <>
             Step 2: Play Favorites
-            <br/>
-            Why bother treating everyone equally when you can play favorites? Identify your favorite employees and make sure to give them all the perks and opportunities, while the rest languish in mediocrity. Make sure to show them off in front of everyone else, too, so that the less fortunate employees know what they are missing out
-        </>,
-        <>
-            on. Parade your favorites in front of everyone else, just to drive home the point. This not only breeds resentment but also squashes any notion of teamwork.
             <br/><br/>
+            Why bother treating everyone equally when you can play favorites? Identify your favorite employees and make sure to give them all the perks and opportunities, while the rest languish in mediocrity. Make sure to show them off in front of everyone else, too, so that the less fortunate employees know what they are missing out on. Parade your favorites in front of everyone else, just to drive home the point. This not only breeds resentment but also squashes any notion of teamwork.
+            
+            <p className="quotes">"Playing favorites: because nothing says 'team spirit' like a good old-fashioned popularity contest in the workplace."</p>
+            
             Step 3: Provide Inconsistent Feedback
-            <br/>
-            Rest
+            <br/><br/>
+            Consistency is overrated, especially when it comes to feedback. Keep your employees on their toes by offering praise one day and harsh criticism the next. Better yet, provide no feedback at all and let them wonder where they stand. This uncertainty will keep them in a perpetual state of anxiety, ensuring that they never feel secure or motivated to excel.
+
+            <p className="quotes">"Consistency is for amateurs! Keep your employees on their toes with feedback that's as unpredictable as the weather forecast in Antarctica."</p>
+          </>,
+          <>
+            Bonus Step: Undermine and Underappreciate
+            <br/><br/>
+            Nothing demotivates quite like feeling undervalued and overlooked. Constantly criticize and never praise. Make sure your employees know when they've messed up, but conveniently forget to acknowledge their successes. This way, they'll feel like they can never do anything right. Shift the blame. When things go wrong, make sure to point fingers at your employees, even if it was clearly your fault. Not only does this erode trust, but it also creates a toxic atmosphere of fear and paranoia.
+            
+            <p className="quotes">"Feedback Fridays: because who needs stability when you can turn your workplace into a thrilling rollercoaster of emotions every week?"</p>
+            
+            Even if your employees go above and beyond, withhold any form of recognition or reward. This sends a clear message that their efforts are futile and unappreciated. Note: If you're still struggling to confuse the hell out of your employees with your feedbacks, even after following these steps, consider seeking professional help. Or better yet, just keep doing what you're doing—you're probably already on the right track.
+            
+            <p className="quotes">"Criticism bingo: where your employees never know if they're getting a gold star or a kick in the pants. It's like a game show, but with fewer prizes and more tears."</p>
+          </>,
+          <>
+            By mastering these three steps(also the bonus step) — micromanagement, favoritism, and undermining — you'll quickly become a master of demotivation. Remember, the goal isn't just to crush morale; it's to obliterate it entirely. So go forth, dear reader, and make your employees dread coming to work each day. After all, what's more satisfying than being the architect of your team's misery?
+
+            <p className="quotes">"In summary, remember to micromanage like a paranoid parent, play favorites like a reality show host, and undermine your team's efforts like a cat batting around a mouse."</p>
         </>
     ],
     [ // chap 3 The Power of Negativity: When Compliments Are Just a Waste of Time
