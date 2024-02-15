@@ -56,6 +56,8 @@ export const intro_content = <>
     But don't worry, this guidebook is here to help you take your terrible management skills to the next level! Whether you're a seasoned pro at making your employees hate you, or a newbie looking to up your game, this book has everything you need to succeed.
     In these pages, you'll learn the art of micromanagement, how to communicate poorly, and why it's always better to criticize than to praise. We'll cover everything from toxic work environments to demotivating your employees, so you can truly be the worst boss ever.
     So buckle up, grab a cup of coffee (and don't offer any to your employees), and let's get started on this journey to becoming the most hated manager in the world!
+
+    <p className="quotes">"From micromanagement madness to communication catastrophes, we'll make you the worst boss ever! So grab your coffee (but don't share), and let's dive into the fun!"</p>
 </>
 
 export const chapters_count = 15;
@@ -115,11 +117,13 @@ export const chap_contents = [
             <br/><br/>
             Step 2: Play Favorites
             <br/>
-            Why treat everyone equally when you can play favorites? Identify your favorite employees and make sure to give them all the perks and opportunities while ignoring the rest. Make sure to show them off in front of everyone else, too, so that the less fortunate employees know what they are missing out
+            Why bother treating everyone equally when you can play favorites? Identify your favorite employees and make sure to give them all the perks and opportunities, while the rest languish in mediocrity. Make sure to show them off in front of everyone else, too, so that the less fortunate employees know what they are missing out
         </>,
         <>
-            on. This is an excellent way to promote resentment and discourage teamwork.
+            on. Parade your favorites in front of everyone else, just to drive home the point. This not only breeds resentment but also squashes any notion of teamwork.
             <br/><br/>
+            Step 3: Provide Inconsistent Feedback
+            <br/>
             Rest
         </>
     ],
