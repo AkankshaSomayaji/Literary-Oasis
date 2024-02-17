@@ -1,3 +1,18 @@
+/* about page */
+.about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-code {
+    background: RGB(245, 240, 234);
+    border-radius: 20px;
+    padding: 20px;
+    width: fit-content;
+    margin: 20px;
+}
+
 /* contact page */
 .contact-body {
     background-color: rgb(234, 229, 223);
