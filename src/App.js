@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom";
 import ThemeProvider from "react-bootstrap/ThemeProvider";
 import './App.scss';
 import "@fontsource/caveat";
@@ -7,6 +7,7 @@ import Home from "./pages/home/home";
 import About from "./pages/about";
 import Contact from "./pages/contact";
 import HMYEHY from "./pages/hmyehy/hmyehy";
+import NotFoundPage from "./pages/404notFound";
 
 function App() {
     return (
@@ -17,16 +18,13 @@ function App() {
             <div className="App">
                 <Router>
                     <Routes>
+                        <Route path={urls.DEFAULT_ENDPOINT} element={<Home />} />
                         <Route path={urls.HOMEPAGE_ENDPOINT} element={<Home />} />
-                    </Routes>
-                    <Routes>
                         <Route path={urls.ABOUT_ENDPOINT} element={<About />} />
-                    </Routes>
-                    <Routes>
                         <Route path={urls.CONTACT_ENDPOINT} element={<Contact />} />
-                    </Routes>
-                    <Routes>
                         <Route path={urls.HMYEHY_ENDPOINT} element={<HMYEHY />} />
+                        <Route path={urls.NOT_FOUND_ENDPOINT} element={<NotFoundPage/>}/>
+                        <Route path="*" element={<Navigate to={urls.NOT_FOUND_ENDPOINT} replace="true" />}/>
                     </Routes>
                 </Router>
             </div>
