@@ -7,6 +7,9 @@ import Home from "./pages/home/home";
 import About from "./pages/about";
 import Contact from "./pages/contact";
 import HMYEHY from "./pages/hmyehy/hmyehy";
+// import LATE20S from "./pages/late20s/late20s";
+import LATE20S from "./pages/late20s/late20s_bkp";
+import pdfFile from "./pages/late20s/TheQuarterLifeCircus.pdf";
 import NotFoundPage from "./pages/404notFound";
 
 function App() {
@@ -23,6 +26,7 @@ function App() {
                         <Route path={urls.ABOUT_ENDPOINT} element={<About />} />
                         <Route path={urls.CONTACT_ENDPOINT} element={<Contact />} />
                         <Route path={urls.HMYEHY_ENDPOINT} element={<HMYEHY />} />
+                        <Route path={urls.LATE20S_ENDPOINT} element={<LATE20S pdfFile={pdfFile}/>} />
                         <Route path={urls.NOT_FOUND_ENDPOINT} element={<NotFoundPage/>}/>
                         <Route path="*" element={<Navigate to={urls.NOT_FOUND_ENDPOINT} replace="true" />}/>
                     </Routes>
