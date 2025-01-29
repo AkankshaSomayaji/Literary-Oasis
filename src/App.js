@@ -7,8 +7,9 @@ import Home from "./pages/home/home";
 import About from "./pages/about";
 import Contact from "./pages/contact";
 import HMYEHY from "./pages/hmyehy/hmyehy";
-// import LATE20S from "./pages/late20s/late20s";
-import LATE20S from "./pages/late20s/late20s_bkp";
+import LATE20S from "./pages/late20s/late20s";
+// import LATE20S from "./pages/late20s/late20s_bkp";
+// import MyApp from "./pages/late20s/late20s_new";
 import pdfFile from "./pages/late20s/TheQuarterLifeCircus.pdf";
 import NotFoundPage from "./pages/404notFound";
 

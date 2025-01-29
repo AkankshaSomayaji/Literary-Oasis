@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Image } from 'react-bootstrap';
 import { Document, Page, pdfjs } from 'react-pdf';
 import HTMLFlipBook from 'react-pageflip';
@@ -27,7 +27,9 @@ export default class Book extends React.Component {
             totalPage: 0,
             orientation: "landscape",
             state: "read",
-            pages: []
+            pages: [],
+            finalPages: [],
+            urls: []
         };
     }
 
@@ -49,20 +51,25 @@ export default class Book extends React.Component {
         });
     };
     
-    onDocumentLoadSuccess = ({numPages}) => {
+    onDocumentLoadSuccess = ({ numPages }) => {
         const pages = [];
+        const urls = [];
 
         // Add inner pages dynamically
         for (let i = 1; i <= numPages; i++) {
             pages.push(
                 <Page key={`page-${i}`} pageNumber={i} renderAnnotationLayer={false} renderTextLayer={false}>
-                    {({ canvas }) => (
-                        <PageComp
-                            key={`softcover-${i}`}
-                            source={canvas.toDataURL()}
-                            alt={`Page ${i}`}
-                        />
-                    )}
+                    {({ canvas }) => {
+                        const imageSrc = canvas.toDataURL();
+                        urls.push(imageSrc);
+                        return (
+                            <PageComp
+                                key={`softcover-${i}`}
+                                source={imageSrc}
+                                alt={`Page ${i}`}
+                            />
+                        );
+                    }}
                 </Page>
             );
         }
@@ -73,8 +80,25 @@ export default class Book extends React.Component {
         // Update the state with pages and total page count
         this.setState({
             totalPage: numPages,
-            pages: pages
-        });
+            pages: pages,
+            urls: urls
+        }, this.updateFinalPages);
+    };
+
+    updateFinalPages = () => {
+        console.log("Final urls: ", this.state.urls);
+        const finalPages = this.state.urls.map((url, i) => (
+            <PageComp
+                key={`softcover-${i}`}
+                source={url}
+                alt={`Page ${i}`}
+            />
+        ));
+
+        // Add the back cover
+        finalPages.push(<PageComp key="back-cover" />);
+
+        this.setState({ finalPages: finalPages });
     };
 
     render() {
@@ -98,7 +122,7 @@ export default class Book extends React.Component {
                             style={{backgroundImage: `url(../../images/page_bg.png)`}}
                             ref={(el) => (this.flipBook = el)}
                         >
-                            {this.state.pages}
+                            {this.state.finalPages}
                         </HTMLFlipBook>
                     </Document>
                 </div>

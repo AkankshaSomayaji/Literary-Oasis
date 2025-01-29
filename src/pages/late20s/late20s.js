@@ -2,7 +2,6 @@ import React, { useState, useEffect, useRef } from "react";
 import { Image } from 'react-bootstrap';
 import { Document, Page, pdfjs } from 'react-pdf';
 import HTMLFlipBook from 'react-pageflip';
-import './late20s.scss';
 
 // Set the workerSrc to point to the provided worker file
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.mjs`;
