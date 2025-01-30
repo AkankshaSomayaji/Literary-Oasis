@@ -16,9 +16,10 @@ const PageSoftCover = React.forwardRef(({ source, alt }, ref) => (
         style={{ height: "872px", border: "2px solid rgb(198, 194, 194)" }}
         />
     </div>
-    ));
+));
 
-    const FlipBookPDF = ({ pdfFile }) => {
+
+const FlipBookPDF = ({ pdfFile }) => {
     const [pages, setPages] = useState([]);
     const [loading, setLoading] = useState(true);
     const flipBookRef = useRef(null);
@@ -51,8 +52,7 @@ const PageSoftCover = React.forwardRef(({ source, alt }, ref) => (
             console.error("Error loading PDF:", error);
         } finally {
             setLoading(false);
-        }
-        };
+        }};
 
         loadPdf();
     }, [pdfFile]);
