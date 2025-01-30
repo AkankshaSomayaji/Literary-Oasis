@@ -45,7 +45,7 @@ const Home = () => {
                                 title={<h3>The Rent Is Late, but So Am I : <br/> Laughing Through the Chaos of Your Late 20s</h3>}
                                 info="Late 20s — full of laughs, cringe, and 'same' moments. Adulthood is weird, but at least it's funny"
                                 hlink='/late20s'
-                                bg={"123, 44, 191"}
+                                bg={"157, 78, 221"}
                                 bgOnHover={"224, 170, 255"}
                             />
                         </Carousel.Item>
