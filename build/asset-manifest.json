@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.91810c47.css",
-    "main.js": "/static/js/main.0ef15eed.js",
+    "main.css": "/static/css/main.3a9c1a31.css",
+    "main.js": "/static/js/main.5d200fb9.js",
+    "static/media/TheQuarterLifeCircus.pdf": "/static/media/TheQuarterLifeCircus.e728de66a07ab11df318.pdf",
+    "static/media/back_cover.png": "/static/media/back_cover.6bcb74b0c6d762521333.png",
+    "static/media/girl-chair-laptop.png": "/static/media/girl-chair-laptop.78728d06a9667d71407e.png",
+    "static/media/cover.png": "/static/media/cover.081a07c771452d996311.png",
+    "static/media/caveat-all-400-normal.woff": "/static/media/caveat-all-400-normal.eaf4051e654fc08692a5.woff",
+    "static/media/girl-boy-chat-nobg.png": "/static/media/girl-boy-chat-nobg.cd47821ca2a051e1c668.png",
+    "static/media/girl-and-cat-nobg.png": "/static/media/girl-and-cat-nobg.0cf90139ded3d4cd2f99.png",
+    "static/media/girl-and-unicorn-nobg.png": "/static/media/girl-and-unicorn-nobg.6bde2b9bcae7e4ec85b5.png",
+    "static/media/caveat-latin-400-normal.woff2": "/static/media/caveat-latin-400-normal.55cab6ba3aa4b692a421.woff2",
+    "static/media/caveat-cyrillic-400-normal.woff2": "/static/media/caveat-cyrillic-400-normal.65c1dd0624b2eae69a41.woff2",
+    "static/media/caveat-cyrillic-ext-400-normal.woff2": "/static/media/caveat-cyrillic-ext-400-normal.dd1901769849172b72b8.woff2",
+    "static/media/page_bg.png": "/static/media/page_bg.ccb4a8c276ad56701585.png",
+    "static/media/binding_bg.png": "/static/media/binding_bg.afc416c17c3073de8977.png",
+    "static/media/caveat-latin-ext-400-normal.woff2": "/static/media/caveat-latin-ext-400-normal.e8837e03b7ff6c41bae7.woff2",
     "index.html": "/index.html",
-    "main.91810c47.css.map": "/static/css/main.91810c47.css.map",
-    "main.0ef15eed.js.map": "/static/js/main.0ef15eed.js.map"
+    "main.3a9c1a31.css.map": "/static/css/main.3a9c1a31.css.map",
+    "main.5d200fb9.js.map": "/static/js/main.5d200fb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.91810c47.css",
-    "static/js/main.0ef15eed.js"
+    "static/css/main.3a9c1a31.css",
+    "static/js/main.5d200fb9.js"
   ]
 }
