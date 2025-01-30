@@ -42,6 +42,15 @@ const Home = () => {
                         </Carousel.Item>
                         <Carousel.Item interval={3000}>
                             <CarouselCard
+                                title={<h3>The Rent Is Late, but So Am I : <br/> Laughing Through the Chaos of Your Late 20s</h3>}
+                                info="Late 20s — full of laughs, cringe, and 'same' moments. Adulthood is weird, but at least it's funny"
+                                hlink='/late20s'
+                                bg={"123, 44, 191"}
+                                bgOnHover={"224, 170, 255"}
+                            />
+                        </Carousel.Item>
+                        <Carousel.Item interval={3000}>
+                            <CarouselCard
                                 title={<h3>Why Be a Good Manager <br/> When You Can Be a Terrible One? : <br/> A Study in Ineptitude</h3>}
                                 info="Avoiding Success at All Costs: The Ultimate Handbook for Bad Managers"
                                 hlink='/'
