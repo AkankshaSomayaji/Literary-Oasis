@@ -8,8 +8,9 @@ import About from "./pages/about";
 import Contact from "./pages/contact";
 import HMYEHY from "./pages/hmyehy/hmyehy";
 import FlipBookPDF from "./pages/flipbook/flipbook";
-import pdfFile from "./pdfs/TheQuarterLifeCircus.pdf";
 import NotFoundPage from "./pages/404notFound";
+
+const pdfFile = "/TheQuarterLifeCircus.pdf";
 
 function App() {
     return (
