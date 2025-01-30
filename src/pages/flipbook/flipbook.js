@@ -11,9 +11,9 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 const PageSoftCover = React.forwardRef(({ source, alt }, ref) => (
     <div ref={ref} data-density="soft">
         <img
-        src={source}
-        alt={alt}
-        style={{ height: "872px", border: "2px solid rgb(198, 194, 194)" }}
+            src={source}
+            alt={alt}
+            style={{ height: "872px", border: "2px solid rgb(198, 194, 194)" }}
         />
     </div>
 ));
