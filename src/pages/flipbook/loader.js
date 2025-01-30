@@ -58,6 +58,7 @@ const StyledWrapper = styled.div`
   .item:before {
     bottom: 100%;
     transform: rotateX(90deg);
+    left: 0px;
   }
 
   .item:after {
