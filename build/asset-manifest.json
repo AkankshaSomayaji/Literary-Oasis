@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2e70c29a.css",
-    "main.js": "/static/js/main.519727e6.js",
+    "main.js": "/static/js/main.5cc67cfd.js",
     "static/media/back_cover.png": "/static/media/back_cover.6bcb74b0c6d762521333.png",
     "static/media/girl-chair-laptop.png": "/static/media/girl-chair-laptop.78728d06a9667d71407e.png",
     "static/media/cover.png": "/static/media/cover.081a07c771452d996311.png",
@@ -17,10 +17,10 @@
     "static/media/caveat-latin-ext-400-normal.woff2": "/static/media/caveat-latin-ext-400-normal.e8837e03b7ff6c41bae7.woff2",
     "index.html": "/index.html",
     "main.2e70c29a.css.map": "/static/css/main.2e70c29a.css.map",
-    "main.519727e6.js.map": "/static/js/main.519727e6.js.map"
+    "main.5cc67cfd.js.map": "/static/js/main.5cc67cfd.js.map"
   },
   "entrypoints": [
     "static/css/main.2e70c29a.css",
-    "static/js/main.519727e6.js"
+    "static/js/main.5cc67cfd.js"
   ]
 }

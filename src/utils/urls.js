@@ -4,4 +4,5 @@ export const ABOUT_ENDPOINT = '/about';
 export const CONTACT_ENDPOINT = '/contact';
 export const HMYEHY_ENDPOINT = '/hmyehy';
 export const LATE20S_ENDPOINT = '/late20s';
+export const INVITE_ENDPOINT = '/invitation';
 export const NOT_FOUND_ENDPOINT = '/404-not-found';

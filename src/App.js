@@ -8,6 +8,7 @@ import About from "./pages/about";
 import Contact from "./pages/contact";
 import HMYEHY from "./pages/hmyehy/hmyehy";
 import FlipBookPDF from "./pages/flipbook/flipbook";
+import Invite from "./pages/invite/invite";
 import NotFoundPage from "./pages/404notFound";
 
 const pdfFile = "/TheQuarterLifeCircus.pdf";
@@ -27,6 +28,7 @@ function App() {
                         <Route path={urls.CONTACT_ENDPOINT} element={<Contact />} />
                         <Route path={urls.HMYEHY_ENDPOINT} element={<HMYEHY />} />
                         <Route path={urls.LATE20S_ENDPOINT} element={<FlipBookPDF pdfFile={pdfFile}/>} />
+                        <Route path={urls.INVITE_ENDPOINT} element={<Invite/>}/>
                         <Route path={urls.NOT_FOUND_ENDPOINT} element={<NotFoundPage/>}/>
                         <Route path="*" element={<Navigate to={urls.NOT_FOUND_ENDPOINT} replace="true" />}/>
                     </Routes>
